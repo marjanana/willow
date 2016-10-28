@@ -17,4 +17,4 @@ published: true
 <a href="http://tattoomilan.net/wp-content/uploads/2016/10/Jatilan_willowpaule.pdf" target="_blank"><img src="http://tattoomilan.net/wp-content/uploads/2016/10/Jatilan-e1477623836230.jpg" alt="Jatilan.jpg"  class="alignnone size-full wp-image-172"</img></a> 
 <hr>
 <hr>
-<a href="http://tattoomilan.net/wp-content/uploads/2016/10/3-women-run-3…warung_willowpaule.pdf" target="_blank"><img src="http://tattoomilan.net/wp-content/uploads/2016/10/3-women--e1477624797352.jpg" alt="14JP26083022.indd"  class="alignnone size-full wp-image-171"</img></a>
+<a href="http://tattoomilan.net/wp-content/uploads/2016/10/3-women-run-3…warung_willowpaule.pdf" target="_blank"><img src="http://tattoomilan.net/wp-content/uploads/2016/10/3-women--e1477624797352.jpg" alt="three women run three very different warung"  class="alignnone size-full wp-image-171"</img></a>
