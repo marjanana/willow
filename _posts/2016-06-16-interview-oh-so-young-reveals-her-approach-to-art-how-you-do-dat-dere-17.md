@@ -1,0 +1,251 @@
+---
+ID: 112
+post_title: 'Interview: Oh So Young reveals her approach to art (How you do dat dere? #17)'
+author: Ana
+post_date: 2016-06-16 05:20:21
+post_excerpt: ""
+layout: post
+permalink: >
+  http://tattoomilan.net/2016/06/16/interview-oh-so-young-reveals-her-approach-to-art-how-you-do-dat-dere-17/
+published: true
+rss_pi_source_url:
+  - >
+    http://www.willowpaule.com/blog/2016/6/oh-so-young-muralista-jeju
+rss_pi_source_md5:
+  - 200a9dc867f60e94191a265a9e8cb575
+rss_pi_canonical_url:
+  - my_blog
+enclosure:
+  - |
+    |
+        http://www.willowpaule.com/img/s4/v64/o841192347/c2000/p1912176940-220.mp4
+        23350942
+        video/mp4
+        
+---
+<span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">
+<span class="zb-richtext" style="width:904px;height:487px;margin-left:20px;margin-right:20px;margin-top:20px;margin-bottom:20px;padding:0px"><span class="pv pv-static pv-ready" id="zfdp_8e3283c9_1ca2deaaa"><span class="pv-outer"><span class="pv-inner" style="width:904px;height:487px"><img class="pv-img pv-burned" width="904" height="487" src="http://www.willowpaule.com/img/s/v-3/p1979902665-5.jpg" alt="" style="width:904px;height:487px" /><span class="pv-zb-text pv-bgcolor1"><span class="pv-zb-text-c pv-font2 pv-color2">Results from live painting at Coex Mall.</span></span></span></span></span>
+
+</span>
+</span></span><br />
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">
+P { mar
+
+</span><span style="font-family: century gothic,applegothic,apple gothic,sans-serif"><b>Do you consider yourself &ldquo;creative?&rdquo; How do you express that creativity?</b></span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">I think that creativity means making something. We are constantly creating things in everyday life such when we cook, when we put on clothes, or make-up. We have preferences relating to all these aspects of our daily life. We consider how our clothes look; are they special or pretty? There is creativity in this process. But artists create more intensively. </span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">
+<span class="zb-richtext" style="width:904px;height:482px;float:left;margin-left:20px;margin-right:20px;margin-top:20px;margin-bottom:20px;padding:0px"><span class="pv pv-static pv-ready" id="zfdp_8e3283c9_1ca2deaba"><span class="pv-outer"><span class="pv-inner" style="width:904px;height:482px"><img class="pv-img pv-burned" width="904" height="482" src="http://www.willowpaule.com/img/s7/v154/p2125399850-5.jpg" alt="" style="width:904px;height:482px" /><span class="pv-zb-text pv-bgcolor1"><span class="pv-zb-text-c pv-font2 pv-color2">Mural created during live painting in Coex Mall.</span></span></span></span></span>
+
+</span>
+</span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif"><b>How did you become a muralist? Where do find ideas for your murals?</b></span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">Six years ago, I showed my work in COEX Mall in Seoul. It was my first exhibit of my artwork ever. That meant I didn&rsquo;t have any idea about the best way to show my work. I just hung my artwork on the wall and I sat in front of it. I felt like I was a clerk in a store. It was boring and awkward. So I decided to take my artwork down and, instead, I started painting on the huge wall. I know, it sounds so strange. But suddenly, many people, including curators, took photos of me working and people began to buy my artwork. After that day, one of the officers of the Choong Mu Art Center got in touch to inquire about my live painting. And he asked me if I could do a wall painting. So, how did I answer? Yes, of course!!! But frankly speaking, I had never painted a mural in my life before that day. ;) </span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">
+<span class="zb-richtext" style="width:904px;height:266px;float:left;margin-left:20px;margin-right:20px;margin-top:20px;margin-bottom:20px;padding:0px"><span class="pv pv-static pv-ready" id="zfdp_8e3283c9_1ca2deaca"><span class="pv-outer"><span class="pv-inner" style="width:904px;height:266px"><img class="pv-img pv-burned" width="904" height="266" src="http://www.willowpaule.com/img/s/v-3/p1900812699-5.jpg" alt="" style="width:904px;height:266px" /><span class="pv-zb-text pv-bgcolor1"><span class="pv-zb-text-c pv-font2 pv-color2">Live painting in Berlin.</span></span></span></span></span>
+
+</span>
+</span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">Even after that first uncomfortable show, I&rsquo;ve continued painting murals. My murals are in South Korea, Italy, Bangladesh, Germany, and Indonesia, among other countries.</span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">
+<span class="zb-richtext" style="width:904px;height:674px;float:left;margin-left:20px;margin-right:20px;margin-top:20px;margin-bottom:20px;padding:0px"><span class="pv pv-static pv-ready" id="zfdp_8e3283c9_1ca2deada"><span class="pv-outer"><span class="pv-inner" style="width:904px;height:674px"><img class="pv-img pv-burned" width="904" height="674" src="http://www.willowpaule.com/img/s/v-3/p1951909005-5.jpg" style="width:904px;height:674px" /></span></span></span>
+
+</span>
+</span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">Ideas for my murals? Actually I never draw a rough sketch for any of my murals. I just go to the wall. I feel the atmosphere of the place and I read poems. I choose some poems which are related to the history of the place or by my favorite Korean poet, Choi Seung Ja. I consider it a ceremony of sorts. I paint the wall, taking advantage of my subconscious feelings about the place. </span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">
+<span class="zb-richtext" style="width:720px;height:960px;margin-left:20px;margin-right:20px;margin-top:20px;margin-bottom:20px;padding:0px"><span class="pv pv-static pv-ready" id="zfdp_8e3283c9_1ca2deaea"><span class="pv-outer"><span class="pv-inner" style="width:720px;height:960px"><img class="pv-img pv-burned" width="720" height="960" src="http://www.willowpaule.com/img/s1/v55/p2069098464-6.jpg" alt="" style="width:720px;height:960px" /><span class="pv-zb-text pv-bgcolor1"><span class="pv-zb-text-c pv-font2 pv-color2">Sailing with hanging moon</span></span></span></span></span>
+
+</span>
+</span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif"><b>Are you inspired by the work of other street artists or muralists?</b></span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">Yes. But I am also inspired by poetry, science, and nature. </span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif"><b>You live on Jeju Island in South Korea. When I lived there, I was impressed by the natural beauty of the beaches and terrain on the island. I felt like that conflicted with the very gray architecture of public buildings and apartment complexes and the predominantly white, black and gray cars. Your work is so colorful. What informs it? And how does your audience react to it? (So Young answers indirectly with the story below:)</b></span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif"><b>
+<span class="zb-richtext" style="width:904px;height:603px;margin-left:20px;margin-right:20px;margin-top:20px;margin-bottom:20px;padding:0px"><span class="pv pv-static pv-ready" id="zfdp_8e3283c9_1ca2deafa"><span class="pv-outer"><span class="pv-inner" style="width:904px;height:603px"><img class="pv-img pv-burned" width="905" height="603" src="http://www.willowpaule.com/img/s/v-3/p1946745163-5.jpg" style="width:905px;height:603px" /></span></span></span>
+
+</span>
+</b>Hahahahaha.</span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">My car was so colorful, with an array of colors. It was so extreme. :) But my goal was to make people who saw my car smile. I hoped people would feel refreshed when they saw it.</span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">One day, I was standing by my car, waiting for a friend. </span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">Some kids that seemed to be around 8 or 9-years-old looked at my car as they passed by. </span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">&ldquo;What kind of car is this? Is it ruined? Who is the owner of this crazy car?&rdquo;</span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">They discussed the car with much curiosity.</span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">&ldquo;Me,&rdquo; I said.</span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">I raised my hands like a ghost and made scary eyes.</span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">&ldquo;Hhhhhhhhhhhh, I am. I am the owner of this car~~~~~~ hhhhhhhhhhhh.&rdquo;</span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">They were shocked and ran away crying. Hahahahahaha.</span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif"><b>Do you always get permission to create your pieces on buildings? </b></span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">Yes, I get permission before I paint. </span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">
+<span class="zb-richtext" style="width:904px;height:904px;margin-left:20px;margin-right:20px;margin-top:20px;margin-bottom:20px;padding:0px"><span class="pv pv-static pv-ready" id="zfdp_8e3283c9_1ca2deaga"><span class="pv-outer"><span class="pv-inner" style="width:904px;height:904px"><img class="pv-img pv-burned" width="904" height="904" src="http://www.willowpaule.com/img/s1/v21/p2070701384-6.jpg" alt="" style="width:904px;height:904px" /><span class="pv-zb-text pv-bgcolor1"><span class="pv-zb-text-c pv-font2 pv-color2">Self portrait</span></span></span></span></span>
+
+</span>
+</span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif"><b>How do you decide if an idea is viable? Do you act on all your creative ideas?</b> </span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">Sometimes ideas are just ideas, as Mark Twain says. :) But if, over the course of time, I <i>do</i> decide an idea is viable, the idea will become well-aged like the soybean paste we use for cooking.</span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">
+<span class="zb-richtext" style="width:904px;height:509px;margin-left:20px;margin-right:20px;margin-top:20px;margin-bottom:20px;padding:0px"><span class="pv pv-static pv-ready" id="zfdp_8e3283c9_1ca2deaha"><span class="pv-outer"><span class="pv-inner" style="width:904px;height:509px"><img class="pv-img pv-burned" width="905" height="509" src="http://www.willowpaule.com/img/s5/v116/p2004003258-5.jpg" alt="" style="width:905px;height:509px" /><span class="pv-zb-text pv-bgcolor1"><span class="pv-zb-text-c pv-font2 pv-color2">Performing in Germany</span></span></span></span></span>
+
+</span>
+</span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif"><b>You&#039;ve spent some time creating art overseas. Was that useful for your practice? </b></span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">I have spent time in other countries through artist residency programs. It has been really useful. My major was not art, it was in English literature and bio science. That means that I am constantly learning more about the materials I use. The artist residencies have helped with that. And I gain inspiration from them in other ways, too.</span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif"><b>How have you made it financially possible to focus on your artwork?</b></span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">I just try to survive one day at a time. One time I was so hungry. I didn&#039;t have anything to eat. I only drank water for 3 days. So I drew a bird on the cloth and filled it with cotton wool. But I couldn&rsquo;t eat the bird. Because it was too cute to eat.</span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">
+<span class="zb-richtext" style="width:904px;height:508px;margin-left:20px;margin-right:20px;margin-top:20px;margin-bottom:20px;padding:0px"><span class="pv pv-static pv-video pv-ready" id="zfdp_8e3283c9_1ca2deaia"><span class="pv-outer"><span class="pv-inner" style="width:904px;height:508px"><video class="pv-img pv-burned" width="904" height="508" src="http://www.willowpaule.com/img/s4/v64/o841192347/c2000/p1912176940-220.mp4" poster="/img/s4/v64/p1912176940-250.jpg" style="width:904px;height:508px">
+
+</video><span class="pv-zb-text pv-bgcolor1"><span class="pv-zb-text-c pv-font2 pv-color2">A day in the life of the artist
+</span></span></span></span></span>
+
+</span>
+</span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif"><b>What are you creating currently?</b></span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">I did live painting while actors acted on a stage for 20 days in Seoul, Korea. I painted different pictures for every performance. Now, I&rsquo;m preparing for a one-man play for a summer festival in Seoul. Ah, and I am going to Bali for an artist residency program from May through June. In Bali, I plan to have a doll play or yoga performance if possible. I am also writing a book (with illustrations) about &#039;Om Swastiastu,&#039; the Hindu phrase that we should use whenever we go into a place in Bali. It&#039;s meaning is like a wish for happiness and peace for that place. I&#039;ll be writing, drawing, and exploring in Ubud, Bali. </span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">
+<span class="zb-richtext" style="width:904px;height:637px;margin-left:20px;margin-right:20px;margin-top:20px;margin-bottom:20px;padding:0px"><span class="pv pv-static pv-ready" id="zfdp_8e3283c9_1ca2deaja"><span class="pv-outer"><span class="pv-inner" style="width:904px;height:637px"><img class="pv-img pv-burned" width="904" height="637" src="http://www.willowpaule.com/img/s1/v55/p2089284346-5.jpg" alt="" style="width:904px;height:637px" /><span class="pv-zb-text pv-bgcolor1"><span class="pv-zb-text-c pv-font2 pv-color2">A whale</span></span></span></span></span>
+
+</span>
+</span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif"><b>How do you keep a balance between paid work and personal work?</b></span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">I spend more time on personal work than paid work. But if someone commissions a mural, I adjust my schedule accordingly. Normally, almost everyday I paint, make or write something for my personal work. </span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">
+<span class="zb-richtext" style="width:904px;height:603px;margin-left:20px;margin-right:20px;margin-top:20px;margin-bottom:20px;padding:0px"><span class="pv pv-static pv-ready" id="zfdp_8e3283c9_1ca2deaka"><span class="pv-outer"><span class="pv-inner" style="width:904px;height:603px"><img class="pv-img pv-burned" width="905" height="603" src="http://www.willowpaule.com/img/s4/v9/p2054320972-5.jpg" style="width:905px;height:603px" /></span></span></span>
+
+</span>
+</span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif"><b>Can you speak a little about art as activism? Do you think artists have power to change the world through art?</b> </span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">First of all, I should mention, the Sewol Ferry tragedy happened in South Korea on April 16 2014. Lots of young people, even a 7-year-old-girl, died in the Sewol Ferry which sunk while on its way to Jeju Island. </span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">Some students on the ferry were heading to Jeju Island on a school trip. Some ferry-goers planned to take a tour and others were on the boat because they planned to start a new life on Jeju. Over 400 people were on the ferry and most of the people were killed at sea when the ferry sank. When the news first hit, the media reported there were no injuries. But that turned out to be false. Nobody was rescued. Only the ship captain escaped.</span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">Where were the marine police? Where was our president Park? Why didn&rsquo;t anyone take responsibility to rescue the people who drowned? Still the truth has not been disclosed. The Korean government has concealed the truth.</span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">Many people in South Korea mourned alongside the families who lost loved ones in the April 16th ferry disaster. It was a national tragedy. I felt like I couldn&rsquo;t do anything to help. At that time I had been working on an art project on Jeju for a month. After the disaster took place, I couldn&rsquo;t focus on my project. While I was walking on the street one day, I suddenly started crying. I was traumatized&hellip;.</span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">More than a month later, I began performing on the street about the Sewol Tragedy. Lots of artists have performed together to let people in the world know the truth behind what happened. Before this, I was an inward-looking, secretive artist. But I&rsquo;ve changed a bit after the Sewol Ferry tragedy.</span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">
+<span class="zb-richtext" style="width:904px;height:605px;margin-left:20px;margin-right:20px;margin-top:20px;margin-bottom:20px;padding:0px"><span class="pv pv-static pv-ready" id="zfdp_8e3283c9_1ca2deala"><span class="pv-outer"><span class="pv-inner" style="width:904px;height:605px"><img class="pv-img pv-burned" width="904" height="605" src="http://www.willowpaule.com/img/s/v-3/p1997746468-5.jpg" style="width:904px;height:605px" /></span></span></span>
+
+</span>
+</span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">
+<span class="zb-richtext" style="width:596px;height:960px;margin-left:20px;margin-right:20px;margin-top:20px;margin-bottom:20px;padding:0px"><span class="pv pv-static pv-ready" id="zfdp_8e3283c9_1ca2deama"><span class="pv-outer"><span class="pv-inner" style="width:596px;height:960px"><img class="pv-img pv-burned" width="596" height="960" src="http://www.willowpaule.com/img/s/v-3/p2054827541-6.jpg" style="width:596px;height:960px" /></span></span></span>
+
+</span>
+</span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif"><b>Can artists change the world?</b></span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">I hope so. I hope art can help let people know the truth<b>.</b></span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">
+<span class="zb-richtext" style="width:827px;height:584px;margin-left:20px;margin-right:20px;margin-top:20px;margin-bottom:20px;padding:0px"><span class="pv pv-static pv-ready" id="zfdp_8e3283c9_1ca2deana"><span class="pv-outer"><span class="pv-inner" style="width:827px;height:584px"><img class="pv-img pv-burned" width="827" height="584" src="http://www.willowpaule.com/img/s12/v175/p2103867083-5.jpg" style="width:827px;height:584px" /></span></span></span>
+
+</span>
+</span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif"><b>Tell us something we don&#039;t know about you yet:</b></span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">I think an artists&#039; role is to tell people that all humans share the earth. I try to observe, listen and watch what&#039;s happening in the world and help people understand what I see through art. </span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif"><b>Bio: </b></span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">
+<span class="zb-richtext" style="width:904px;height:602px;float:left;margin-left:20px;margin-right:20px;margin-top:20px;margin-bottom:20px;padding:0px"><span class="pv pv-static pv-ready" id="zfdp_8e3283c9_1ca2deaoa"><span class="pv-outer"><span class="pv-inner" style="width:904px;height:602px"><img class="pv-img pv-burned" width="904" height="602" src="http://www.willowpaule.com/img/s/v-3/p1986204142-5.jpg" alt="" style="width:904px;height:602px" /><span class="pv-zb-text pv-bgcolor1"><span class="pv-zb-text-c pv-font2 pv-color2">Photo Copyright Ran Young Lee, 2016.</span></span></span></span></span>
+
+</span>
+</span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">Oh So Young (b. Jeju, South Korea, 1979) is based on Jeju Island, South Korea. She studied bio science and English literature in college, and especially her love of science&nbsp; has informed her art practice. She performs, paints and acts. She has been selected for competitive artist residencies in Gasiri, Jeju, Gyung gi, and Seoul, Korea, as well international residencies in Bangladesh, Italy and Indonesia. Her murals can be seen in Seoul, Incheon, Jeju, and Gumi, among other towns in Korea. See more of So Young&#039;s creative work on her <a href="http://windstone.co/" target="_blank">website</a> or on <a href="https://www.facebook.com/wind.stone.5" target="_blank">Facebook</a>.</span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">
+<span class="zb-richtext" style="width:904px;height:653px;margin-left:20px;margin-right:20px;margin-top:20px;margin-bottom:20px;padding:0px"><span class="pv pv-static pv-ready" id="zfdp_8e3283c9_1ca2deapa"><span class="pv-outer"><span class="pv-inner" style="width:904px;height:653px"><img class="pv-img pv-burned" width="904" height="653" src="http://www.willowpaule.com/img/s1/v54/p2138201504-5.jpg" style="width:904px;height:653px" /></span></span></span>
+
+</span>
+</span></span></p>
+
+<p><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">Want to recommend we speak with a creative person you know? <a href="http://www.willowpaule.com/contact" target="_blank">Get in touch</a>. </span></span></p>
+
+<p><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif">Past installments of &quot;How you do dat dere?&quot; --our monthly interview with a creative person. </span></span></p>
+
+<p><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif"><a href="http://www.willowpaule.com/blog/2016/5/conjuring-the-consecrated-with-cherie-buck-hutchison" target="_blank">Conjuring Creativity with intermedia artist Cherie Buck-Hutchison--How you do dat dere? #16</a></span></span></p>
+
+<p><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif"><a href="http://www.willowpaule.com/blog/2016/4/interview-andy-faulk-makes-some-dreamy-portraits--how-you-do-dat-dere-14" target="_blank">Interview: Andy Faulk makes some damn dreamy portraits--How you do dat dere? #15</a></span></span></p>
+
+<p><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif"><a href="http://www.willowpaule.com/blog/2016/3/coaxing-and-coaching-creativity-with-quinn-mcdonald--how-do-you-do-dat-dere-14">Coaxing and Coaching Creativity with Quinn McDonald--How do you do dat dere? #14</a></span></span></p>
+
+<p><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif"><a href="http://www.willowpaule.com/blog/2016/2/natasha-mistry-makes-meaning-artist-interview" target="_blank">Natasha Mistry makes meaning with mandalas and kids--artist interview (#13)</a></span></span></p>
+
+<p><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif"><a href="http://www.willowpaule.com/blog/2016/1/martin-westlake-photographs-the-amish-of-indonesia-volcanoes-and-architecture" target="_blank">Martin Westlake photographs volcanoes, architecture and the &#039;Amish of Indonesia&#039; (#12)</a></span></span></p>
+
+<p class="blog-color1 blog-font1"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif"><a href="http://www.willowpaule.com/blog/2015/12/-how-you-do-dat-dere---interview-with-creative-person-lisa-baughn">&quot;How you do dat dere?&quot; --Interview with creative person, Lisa Baughn (#11)</a></span></span></p>
+
+<p class="blog-color1 blog-font1"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif"><a href="http://www.willowpaule.com/blog/2015/11/how-you-do-dat-dere-josh-solar">Josh Solar creates for happiness (how you do dat dere #10)</a></span></span></p>
+
+<p class="blog-color1 blog-font1"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif"><a href="http://www.willowpaule.com/blog/2015/10/midori-harima" target="_blank">Midori Harima, how you do dat dere? </a><a href="http://www.willowpaule.com/blog/2015/5/the-art-of-crafting-comfortable-versitile-clothing-an-interview-with-rose-gerstner" target="_blank">(How you do dat dere </a><a href="http://www.willowpaule.com/blog/2015/9/exploring-identity-family-and-culture-with-video-and-photo-artist-gazelle-samizay" target="_blank">#9)</a></span></span></p>
+
+<p class="blog-color1 blog-font1"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif"><a href="http://www.willowpaule.com/blog/2015/9/exploring-identity-family-and-culture-with-video-and-photo-artist-gazelle-samizay" target="_blank">Exploring identity, family and culture with video and photo artist Gazelle Samizay (</a><a href="http://www.willowpaule.com/blog/2015/5/the-art-of-crafting-comfortable-versitile-clothing-an-interview-with-rose-gerstner" target="_blank">How you do dat dere </a><a href="http://www.willowpaule.com/blog/2015/9/exploring-identity-family-and-culture-with-video-and-photo-artist-gazelle-samizay" target="_blank">#8)</a></span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif"><a href="http://www.willowpaule.com/blog/2015/8/kevin-phillips-cannot-stop-writing" target="_blank">Kevin Phillips Cannot Stop Writing</a> <a href="http://www.willowpaule.com/blog/2015/8/kevin-phillips-cannot-stop-writing" target="_blank">(How you do dat dere #7)</a></span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif"><a href="http://www.willowpaule.com/blog/2015/7/harris-martin-renaissance-man-talks-about-singing-dancing-modeling-the-list-goes-on" target="_blank">Harris Martin, Renaissance Man talks about singing, dancing, modeling...the list goes on.</a> <a href="http://www.willowpaule.com/blog/2015/5/the-art-of-crafting-comfortable-versitile-clothing-an-interview-with-rose-gerstner" target="_blank">(How you do dat dere #6)</a></span></span></p>
+
+<p><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif"><a href="http://www.willowpaule.com/blog/2015/6/imaginative-baking-with-stephanie-nixon" target="_blank">Inspired Baking with Stephanie Nixon (How you do dat dere #5)</a><br />
+<a href="http://www.willowpaule.com/blog/2015/5/the-art-of-crafting-comfortable-versitile-clothing-an-interview-with-rose-gerstner" target="_blank">The art of crafting comfortable, versatile clothing, an interview with Rose Gerstner (How you do dat dere #4)</a></span></span></p>
+
+<p><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif"><a href="http://www.willowpaule.com/blog/2015/4/dan-mccloys-twisted-horror-films" target="_blank">The Horror--Interview with filmmaker, Dan McCloy (How you do dat dere #3) &nbsp;</a>&nbsp;&nbsp;&nbsp; </span></span></p>
+
+<p><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif"><a href="http://www.willowpaule.com/blog/2015/3/landonshanksandhisworld" target="_blank">Landobot-Landon Shanks&#039; World of Art (How you do dat dere #2)</a></span></span></p>
+
+<p><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif"><a href="http://www.willowpaule.com/blog/2015/2/jejushamanisminterview-with-filmmaker-joey-rositano" target="_blank">Investigating the spirits of Jeju --Interview with filmmaker Joey Rositano (How you do dat dere #1)</a></span></span></p>
+
+<p><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif"><a href="http://www.willowpaule.com/contact" target="_blank">Contact WPP to schedule a documentary photo session</a></span></span></p>
+
+<p><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif"><a href="https://www.facebook.com/willowpaulephotography/?fref=ts" target="_blank">Willow Paule Photography on Facebook</a></span></span></p>
+
+<p><span style="font-size:18px"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif"><a href="https://twitter.com/WillowPaule" target="_blank">Willow Paule on Twitter</a></span></span></p>
+Source: New Stuff

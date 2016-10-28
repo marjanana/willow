@@ -1,0 +1,237 @@
+---
+ID: 104
+post_title: 'Keep on pushing, painting&#8211;creative interview with artist Forrest Solis #18'
+author: Ana
+post_date: 2016-07-28 07:01:27
+post_excerpt: ""
+layout: post
+permalink: >
+  http://tattoomilan.net/2016/07/28/keep-on-pushing-painting-creative-interview-with-artist-forrest-solis-18-2/
+published: true
+rss_pi_source_url:
+  - >
+    http://www.willowpaule.com/blog/2016/7/keep-on-pushing-creative-interview-with-painter-forrest-solis
+rss_pi_source_md5:
+  - ed7dcdf6d36441422e5d71df47326f0a
+rss_pi_canonical_url:
+  - my_blog
+---
+<p style="margin-bottom: 0in">
+<span class="zb-richtext" style="width:904px;height:905px;margin-left:20px;margin-right:20px;margin-top:20px;margin-bottom:20px;padding:0px"><span class="pv pv-static pv-ready" id="zfdp_47dc6238_3fbf7aaa"><span class="pv-outer"><span class="pv-inner" style="width:904px;height:905px"><img class="pv-img pv-burned" width="904" height="905" src="http://www.willowpaule.com/img/s1/v46/p2137273040-6.jpg" alt="" style="width:904px;height:905px" /><span class="pv-zb-text pv-bgcolor1"><span class="pv-zb-text-c pv-font2 pv-color2">L&amp;D Day #4 
+Oil and Acrylic on Canvas
+36 x 36 inches
+Copyright, Forrest Solis, 2016.</span></span></span></span></span>
+
+</span>
+<span style="font-size:24px"><font face="Garamond, sans-serif"><b>Was there a point in your life when you realized that you are a creative person or an artist?</b></font></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:24px"><font face="Garamond, sans-serif">At five years old I attended a Montessori school, as part of the curriculum different subjects were taught at different tables. Within the first year they recommended I leave Montessori for a more traditional school because I would never leave the art table and they were concerned that I would not learn any other subjects. So you can see I was deeply interested in art since the beginning of my life. I would say that I fully committed to art when I attended the Chicago Academy for the Arts High School, which had a rigorous art program of three hours a day on top of our regular academic classes. I commuted by train one hour each way from the Northwest suburb Arlington Heights to Chicago. Often it was dark when I left for school and when I returned home after 7pm. My mother would pick me up from the train with a plate of food in the car because I was starving by the time I met her each day. The level of commitment this schedule demanded of me helped to firmly establish my future dedication to the arts. </font></span></p>
+
+<p style="margin-bottom: 0in">
+<span class="zb-richtext" style="width:904px;height:673px;margin-left:20px;margin-right:20px;margin-top:20px;margin-bottom:20px;padding:0px"><span class="pv pv-static pv-ready" id="zfdp_47dc6238_3fbf7aba"><span class="pv-outer"><span class="pv-inner" style="width:904px;height:673px"><img class="pv-img pv-burned" width="904" height="673" src="http://www.willowpaule.com/img/s11/v32/p2081110691-5.jpg" alt="" style="width:904px;height:673px" /><span class="pv-zb-text pv-bgcolor1"><span class="pv-zb-text-c pv-font2 pv-color2">L&amp;D Day #2
+ Oil and Acrylic on Canvas, 43 x 57 inches
+Copyright, Forrest Solis, 2015.</span></span></span></span></span>
+
+</span>
+</p>
+
+<p style="margin-bottom: 0in"><span style="font-size:24px"><font face="Garamond, sans-serif"><b>Forrest, could you talk a bit about your paintings for your exhibit L+D, the oral histories centered around experiences of motherhood, and how you decided to tie the two together? </b></font></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:24px"><font face="Garamond, sans-serif">In 2011, I gave birth to my son, August. The experience profoundly impacted me and became the inspiration for my series <i>L+D</i>. A dramatized narrative of my labor and delivery, <i>L+D</i> is also an abbreviation for Life + Death, Love + Devotion, Loss + Damage, and Light + Dark. In birth, all of these juxtapositions exist simultaneously. While almost always depicted and described as &ldquo;beautiful&rdquo; and &ldquo;natural,&quot; the actual process of labor and delivery can be anything but. In my case, it was a horror show. <i>L+D </i>focuses on birth trauma - laying bare the gore, pain and violence involved in bringing new life into the world. Throughout the process of conceiving and carrying a child, selfhood and autonomy are strained and stretched, culminating in the cutting of the umbilical cord. Through the lens of birth I explore the horror of abjection, the breakdown between self and other.</font></span></p>
+
+<p style="margin-bottom: 0in">&nbsp;</p>
+
+<p style="margin-bottom: 0in"><span style="font-size:24px"><font face="Garamond, sans-serif">Unfortunately, many women feel denied the opportunity to share and interpret their own birth experience, leaving mothers with a profound sense of isolation. In </font><font face="Garamond, sans-serif"><i>Birthing And Medicine In Crisis</i></font><font face="Garamond, sans-serif">, author and internist Dr. Alfonso Vergara wrote, &ldquo;We</font><font face="Garamond, sans-serif"> have created a &lsquo;code of silence&rsquo; and a don&rsquo;t-ask-don&rsquo;t-tell attitude about birth.&rdquo; This attitude can be very damaging, and yet outside of the &ldquo;wonderfuls&rdquo; and &ldquo;amazings,&rdquo; new mothers receive, we rarely give the birthing process, and the women that go through it, the attention that it deserves. </font><font face="Garamond, sans-serif">In response to the often one-sided story surrounding birth, I founded Creative Push. <a href="http://creativepush.org." target="_blank">Creative Push</a> is a multimedia art and oral history project that promotes a variety of interpretations of birth experiences through storytelling and the visual arts. We record women&rsquo;s birth stories, connect those stories with artists who are inspired to make original works of art in response. The story/artwork pairs can be seen and heard on the project&rsquo;s <a href="http://creativepush.org." target="_blank">interactive website</a>.</font></span></p>
+
+<p style="margin-bottom: 0in">
+<span class="zb-richtext" style="width:622px;height:959px;margin-left:20px;margin-right:20px;margin-top:20px;margin-bottom:20px;padding:0px"><span class="pv pv-static pv-ready" id="zfdp_47dc6238_3fbf7aca"><span class="pv-outer"><span class="pv-inner" style="width:622px;height:959px"><img class="pv-img pv-burned" width="622" height="960" src="http://www.willowpaule.com/img/s1/v47/p1943337515-6.jpg" alt="" style="width:622px;height:960px" /><span class="pv-zb-text pv-bgcolor1"><span class="pv-zb-text-c pv-font2 pv-color2">L&amp;D Day #6
+Oil and Acrylic on Canvas, 66 x 43inches
+Copyright, Forrest Solis, 2016.</span></span></span></span></span>
+
+</span>
+</p>
+
+<p style="margin-bottom: 0in"><span style="font-size:24px"><font face="Garamond, sans-serif">Medical research understands women&rsquo;s labor and delivery experiences as quantifiable data. In contrast, I am interested in women&rsquo;s subjective memories of their experience, altered and transformed by a heightened emotional and sensual state of being. The Creative Push artists communicate the intangible experience of birth through material form. L+D is a manifestation of this process of visual interpretation.</font></span></p>
+
+<p style="margin-bottom: 0in">
+<span class="zb-richtext" style="width:904px;height:603px;margin-left:20px;margin-right:20px;margin-top:20px;margin-bottom:20px;padding:0px"><span class="pv pv-static pv-ready" id="zfdp_47dc6238_3fbf7ada"><span class="pv-outer"><span class="pv-inner" style="width:904px;height:603px"><img class="pv-img pv-burned" width="904" height="603" src="http://www.willowpaule.com/img/s/v-3/p1928476993-5.jpg" style="width:904px;height:603px" /></span></span></span>
+
+</span>
+</p>
+
+<p style="margin-bottom: 0in"><span style="font-size:24px"><font face="Garamond, sans-serif"><b>How did you find the exhibition space? </b></font></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:24px"><font face="Garamond, sans-serif">The L+D exhibition space is the abandoned surgical wing of a defunct children&rsquo;s hospital, which has been repurposed for storage and office space. Adriene Jenik, ASU School of Art Director, showed the space to a small group of faculty including myself as potential studio space for our graduate students. We quickly decided against the space as studios because of the lack of natural light, the floor to ceiling asbestos tile and the fact that it seemed haunted. I had been thinking about creating a series of paintings about my labor and delivery for a couple years before I saw the space. Once I set eyes on the space everything clicked and I instantly envisioned L+D. </font></span></p>
+
+<p style="margin-bottom: 0in">
+<span class="zb-richtext" style="width:904px;height:603px;margin-left:20px;margin-right:20px;margin-top:20px;margin-bottom:20px;padding:0px"><span class="pv pv-static pv-ready" id="zfdp_47dc6238_3fbf7aea"><span class="pv-outer"><span class="pv-inner" style="width:904px;height:603px"><img class="pv-img pv-burned" width="904" height="603" src="http://www.willowpaule.com/img/s/v-3/p1899209053-5.jpg" style="width:904px;height:603px" /></span></span></span>
+
+</span>
+</p>
+
+<p style="margin-bottom: 0in"><span style="font-size:24px"><font face="Garamond, sans-serif"><b>I noticed that your paintings had details from the room you exhibited them in. Did you paint at the exhibit location or take photos as reference?</b></font></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:24px"><font face="Garamond, sans-serif">For the paintings, I took reference photos of me in the space to paint from. I was given some props including a syringe, hospital gown, oxygen mask and other miscellaneous objects by my friend who works at a local hospital. I ordered a couple baby dolls from Ebay, bought colored light bulbs, spotlights and a ton of<font color="#000000"><span style="background: transparent none repeat scroll 0% 0%"> </span></font><span style="background: transparent none repeat scroll 0% 0%">plastic tubing</span><font color="#000000"><span style="background: transparent none repeat scroll 0% 0%"> </span></font>from Home Depot, mixed up a large batch of fake blood and I was set for my photo shoot. The paintings are based off of my memory and meant to appear a bit surreal, mixing real and dreamlike elements. Some of the things are based on observation and others are imagined. For example the mannequin was not pregnant and did not have a real vagina, likewise the baby doll did not have an umbilical cord. </font></span></p>
+
+<p style="margin-bottom: 0in">
+<span class="zb-richtext" style="width:646px;height:960px;margin-left:20px;margin-right:20px;margin-top:20px;margin-bottom:20px;padding:0px"><span class="pv pv-static pv-ready" id="zfdp_47dc6238_3fbf7afa"><span class="pv-outer"><span class="pv-inner" style="width:646px;height:960px"><img class="pv-img pv-burned" width="646" height="960" src="http://www.willowpaule.com/img/s/v-3/p1883079294-6.jpg" alt="" style="width:646px;height:960px" /><span class="pv-zb-text pv-bgcolor1"><span class="pv-zb-text-c pv-font2 pv-color2">L&amp;D Day #7
+Oil and Acrylic on Canvas, 64 x 43inches Copyright, Forrest Solis, 2016.</span></span></span></span></span>
+
+</span>
+</p>
+
+<p style="margin-bottom: 0in"><span style="font-size:24px"><font face="Garamond, sans-serif"><b>Is this your first collaborative project? </b></font></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:24px"><font face="Garamond, sans-serif">Creative Push is my first collaborative project and L+D is my first multimedia installation. I am far outside<span style="background: transparent none repeat scroll 0% 0%"> of my comfort zone and it has been extremely rewarding. I discovered that working collaboratively means being willing to allow for change. I had the original vision for the project and through collaboration the project grew to be more nuanced and richer than I had originally conceived. I imagine collaborating is difficult for those that have a fully defined set vision for a project, but because I was so outside my comfort zone I was hungry for the input of my collaborators. T</span>his feels like the most important and impactful work I have produced thus far in my career. I look forward to seeing where it goes from here.</font></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:24px"><font face="Garamond, sans-serif"><b>Did you enjoy the process? </b></font></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:24px"><font face="Garamond, sans-serif">I immensely enjoyed working collaboratively. I am lucky to have such a great team. They each bring something different to the project and each of their contributions is invaluable. <a href="http://www.ashleyczajkowski.com/" target="_blank">Ashley Czajkowski</a>, an exceptional artist in her own right, has taken on the role of Creative Push&rsquo;s audio technician and story editor. Try to imagine the difficult job of taking 2-hour audio interviews and editing them down to 20 minutes of compelling storytelling. She has to remove all my questions and the interviewee&rsquo;s verbal stumbles, reorder the content so that it is somewhat chronological, all the while maintaining the original meaning. <a href="http://creativepush.org/about-the-project/biographies/" target="_blank">Kyle Larkin</a> is our website designer and the most patient person I know. He has done an incredible job of making real an abstract idea. <a href="http://creativepush.org/about-the-project/biographies/" target="_blank">Kim Larkin</a> has taken on the role of public representative; she produces Creative Push&rsquo;s social media and newsletter and <a href="http://creativepush.org/about-the-project/biographies/" target="_blank">Rosie Schipley</a> is the Creative Push podcast producer. </font></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:24px"><font face="Garamond, sans-serif"><b>Did anything unexpected happen?</b></font></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:24px"><font face="Garamond, sans-serif">I am mostly surprised by how generous people are with their time. I am incredibly grateful to the women who have taken time out of their busy lives to sit down with me and open up about one of their most personal experiences. I am also happily surprised by the support Creative Push has received from ASU and the community at large. </font></span></p>
+
+<p style="margin-bottom: 0in">
+<span class="zb-richtext" style="width:904px;height:603px;margin-left:20px;margin-right:20px;margin-top:20px;margin-bottom:20px;padding:0px"><span class="pv pv-static pv-ready" id="zfdp_47dc6238_3fbf7aga"><span class="pv-outer"><span class="pv-inner" style="width:904px;height:603px"><img class="pv-img pv-burned" width="904" height="603" src="http://www.willowpaule.com/img/s1/v55/p2127933004-5.jpg" style="width:904px;height:603px" /></span></span></span>
+
+</span>
+</p>
+
+<p style="margin-bottom: 0in"><span style="font-size:24px"><font face="Garamond, sans-serif"><b>Could you discuss the symbolism of the doll that was being operated on in some of your paintings? How was </b><i><b>your</b></i><b> birth experience?</b></font></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:24px"><font face="Garamond, sans-serif">The L+D paintings are not meant to be factual per se, but instead they are subjective. They make visual the physical, psychological and emotional experience I had giving birth. For example in the paintings I am always alone and all the supporting characters are dolls or mannequins because throughout the process of giving birth, even though supportive people surrounded me, I felt isolated in my experience. Perhaps partly due to the epidural and because my body wasn&rsquo;t the body I was familiar with and doing things that I wasn&rsquo;t in control of, I felt like my body was an object disconnected from my mind. In my paintings I tried to portray this feeling of disconnection and isolation. </font></span></p>
+
+<p style="margin-bottom: 0in">
+<span class="zb-richtext" style="width:904px;height:604px;margin-left:20px;margin-right:20px;margin-top:20px;margin-bottom:20px;padding:0px"><span class="pv pv-static pv-ready" id="zfdp_47dc6238_3fbf7aha"><span class="pv-outer"><span class="pv-inner" style="width:904px;height:604px"><img class="pv-img pv-burned" width="904" height="604" src="http://www.willowpaule.com/img/s5/v125/p2023666208-5.jpg" style="width:904px;height:604px" /></span></span></span>
+
+</span>
+</p>
+
+<p style="margin-bottom: 0in"><span style="font-size:24px"><font face="Garamond, sans-serif"><b>I think your paintings appeal to me because of their realistic and lifelike style yet surrealistic subject matter. How have you found your definitive style? </b></font></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:24px"><font face="Garamond, sans-serif">I have always been a representational figurative painter and have made work inspired by surreal and magical and grotesque realist literature, film and theory. I am continually learning how to paint better and embrace my natural painting sensibility rather than emulate other artists. I expect to continue to grow as an artist and refine my painting skills along the way.</font></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:24px"><font face="Garamond, sans-serif"><b>What do you learn through working as a professor?</b></font></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:24px"><font face="Garamond, sans-serif">By working as an art professor I have the wonderful opportunity to be surrounded by, talented and creative young people, which means I get to see the world through their young eyes, with a fresh perspective. They keep me on my toes and expect that I stay current and up to date on issues in contemporary art. They help motivate me to keep growing and learning and to keep reaching further with my work.</font></span></p>
+
+<p style="margin-bottom: 0in">
+<span class="zb-richtext" style="width:689px;height:960px;margin-left:20px;margin-right:20px;margin-top:20px;margin-bottom:20px;padding:0px"><span class="pv pv-static pv-ready" id="zfdp_47dc6238_3fbf7aia"><span class="pv-outer"><span class="pv-inner" style="width:689px;height:960px"><img class="pv-img pv-burned" width="689" height="960" src="http://www.willowpaule.com/img/s3/v8/p2114763076-6.jpg" alt="" style="width:689px;height:960px" /><span class="pv-zb-text pv-bgcolor1"><span class="pv-zb-text-c pv-font2 pv-color2">L&amp;D Day #3
+Oil and Acrylic on Canvas, 57 x 42inches
+Copyright, Forrest Solis, 2015.</span></span></span></span></span>
+
+</span>
+</p>
+
+<p style="margin-bottom: 0in"><span style="font-size:24px"><font face="Garamond, sans-serif"><b>What are the top three things that have helped you grow as an artist?</b></font></span></p>
+
+<ol>
+	<li>
+	<p style="margin-bottom: 0in"><span style="font-size:24px"><font face="Garamond, sans-serif">Seeing paintings in person; nothing can substitute seeing the real thing. You can learn a lot from the surface of a painting rather than just the imagery. Some would say the difference between a picture and a painting lies in the surface. </font></span></p>
+	</li>
+	<li>
+	<p style="margin-bottom: 0in"><span style="font-size:24px"><font face="Garamond, sans-serif">Looking at the world through a creative lens, no experience is too ordinary to make art out of. I am a self-portrait painter and depend on my life experiences for inspiration. </font></span></p>
+	</li>
+	<li>
+	<p style="margin-bottom: 0in"><span style="font-size:24px"><font face="Garamond, sans-serif">Being willing to financially invest in my art, sacrifice elsewhere in order to work with good materials, quality frames, et cetera. If you are investing a significant amount of time into your artwork then it is worth investing in the materials too.</font></span></p>
+	</li>
+</ol>
+
+<p style="margin-bottom: 0in;line-height: 0.2in"><span style="font-size:24px"><font face="Garamond, sans-serif"><b>Have you faced challenges in your creative work? How do you stick with it when the going gets tough?</b></font></span></p>
+
+<p><span style="font-size:24px"><span style="font-family:garamond,hoefler text,times new roman,times,serif">Honestly balancing early motherhood with being a professor and professional artist has been the biggest challenge. When August was younger he was clingier with me, but now that he is almost 5 years old things have gotten much easier. My husband Eric can enjoy spending more significant blocks of time with him, sharing his interests in cars and other mechanical tinkering. One of the most difficult things has been getting over the guilt I used to feel for the time I spent in the studio. Now Eric and I have figured out a better system and are in a much better place.</span></span></p>
+
+<p>
+<span class="zb-richtext" style="width:904px;height:604px;margin-left:20px;margin-right:20px;margin-top:20px;margin-bottom:20px;padding:0px"><span class="pv pv-static pv-ready" id="zfdp_47dc6238_3fbf7aja"><span class="pv-outer"><span class="pv-inner" style="width:904px;height:604px"><img class="pv-img pv-burned" width="904" height="604" src="http://www.willowpaule.com/img/s/v-3/p1891333126-5.jpg" style="width:904px;height:604px" /></span></span></span>
+
+</span>
+</p>
+
+<p><span style="font-size:24px"><strong><span style="font-family:garamond,hoefler text,times new roman,times,serif">What are you working on currently? What are your creative goals for the next 5 years?</span></strong></span></p>
+
+<p><span style="font-size:24px"><span style="font-family:garamond,hoefler text,times new roman,times,serif">The <a href="https://www.facebook.com/creativepush.org/?fref=ts&amp;ref=br_tf" target="_blank">Creative Push</a> project is ongoing and will be my life&rsquo;s work. By the fall our goal is to have 100 birth stories and 50 works of art. In January I am applying to an NEA/NEH grant to take the project national. I envision traveling the county recording stories in each state and connecting those stories with local artists, and training people to continuing the project after we have left. </span></span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-size:24px"><span style="font-family:garamond,hoefler text,times new roman,times,serif">I am also currently painting a large-scale rendition of Courbet&rsquo;s painting, Sleepers. Julia Friedman, Art Historian and Courbet Scholar, and I are posed as the two intertwined figures in the painting, representing an allegory of &ldquo;art&rdquo; and &ldquo;art history&rdquo; in bed together and the complicated relationship between the two. Recreating the original painting has been a profound learning experience. Now from first hand experience, I know just how distorted Courbet&rsquo;s figures are. This painting has taken months to paint and is one of the most ambitious works of art I have made to date. The painting will be shown in September at the Jamie Brooks Gallery in Costa Mesa, California. </span></span></p>
+
+<p>
+<span class="zb-richtext" style="width:904px;height:678px;margin-left:20px;margin-right:20px;margin-top:20px;margin-bottom:20px;padding:0px"><span class="pv pv-static pv-ready" id="zfdp_47dc6238_3fbf7aka"><span class="pv-outer"><span class="pv-inner" style="width:904px;height:678px"><img class="pv-img pv-burned" width="904" height="678" src="http://www.willowpaule.com/img/s5/v118/p1884115742-5.jpg" alt="" style="width:904px;height:678px" /><span class="pv-zb-text pv-bgcolor1"><span class="pv-zb-text-c pv-font2 pv-color2">Work in progress, The Sleepers
+Painting Copyright, Forrest Solis, 2016.</span></span></span></span></span>
+
+</span>
+<span style="font-size:24px"><strong><span style="font-family:garamond,hoefler text,times new roman,times,serif">What inspires you? Which artists do you admire and why?</span></strong></span></p>
+
+<p><span style="font-size:24px"><span style="font-family:garamond,hoefler text,times new roman,times,serif">There are many amazing figurative artists out there, but what really inspires me is the artwork of my colleagues at ASU. In particular, the paintings of Anthony Pessler and Henry Schoebel, the ceramic sculptures of Susan Beiner and Kurt Weisner and the photographs of Betsy Schneider. These artists are true perfectionists and have taught me that when it comes to making art nothing is &ldquo;good enough.&rdquo; </span></span></p>
+
+<p><span style="font-size:24px"><strong><span style="font-family:garamond,hoefler text,times new roman,times,serif">What&#039;s your advice to someone looking to grow in their own creative practice?</span></strong></span></p>
+
+<p><span style="font-size:24px"><span style="font-family:garamond,hoefler text,times new roman,times,serif">I would suggest experimentation and not letting fear of failure get in the way of doing what you want to do artistically. I make work that that is challenging to the viewer and, quite frankly, not commercial. If I considered what I assumed people would think I would be stifling my uniquely creative vision. True success only comes when you are being honest and true to your vision.</span></span></p>
+
+<p><span style="font-size:24px"><span style="font-family:garamond,hoefler text,times new roman,times,serif"><strong>Tell us something we don&#039;t know about you yet:</strong></span></span></p>
+
+<p><span style="font-size:24px"><span style="font-family:garamond,hoefler text,times new roman,times,serif">Although I paint self-portraits and use my body in my imagery, for most of my life I have been extremely self-conscious about my body and a bit self-loathing. The process of painting myself from life has really helped me get over my body image issues. Only now, in my adult life, have I begun to embrace my figure and feel confident. </span></span></p>
+
+<p><span style="font-size:24px"><strong><span style="font-family:garamond,hoefler text,times new roman,times,serif">
+<span class="zb-richtext" style="width:641px;height:960px;margin-left:20px;margin-right:20px;margin-top:20px;margin-bottom:20px;padding:0px"><span class="pv pv-static pv-ready" id="zfdp_47dc6238_3fbf7ala"><span class="pv-outer"><span class="pv-inner" style="width:641px;height:960px"><img class="pv-img pv-burned" width="641" height="960" src="http://www.willowpaule.com/img/s2/v72/p2061407717-6.jpg" style="width:641px;height:960px" /></span></span></span>
+
+</span>
+</span></strong></span></p>
+
+<p><span style="font-size:24px"><strong><span style="font-family:garamond,hoefler text,times new roman,times,serif">Bio:</span></strong></span></p>
+
+<p><span style="font-size:24px"><span style="font-family:garamond,hoefler text,times new roman,times,serif">Through self-portraiture, <a href="http://www.forrestsolis.com/" target="_blank">Forrest Solis </a>explores the numerous personal and political contradictions of modern life. Examining the past and taking an honest look at contemporary culture, Solis creates work that plays with a mix of emotional and intellectual responses, with no one prevailing point of view. Her thematic source material is varied, incorporating elements of Sigmund Freud&#039;s notions of the uncanny, along with ideas drawn from Jacques Lacan, Mikhail Bakhtin and South American literature, which explores magic and grotesque realism. In her large-scale figurative painting series L+D, Solis creates the allusion to horror film stills using Hitchcockian compositions and cinematic lighting, while her series Lessons belies our nostalgia for simpler times, simultaneously attracting and repelling. Solis continually surprises and provokes with new interpretations of self, which are ever-changing and in a constant state of flux. Paintings by Forrest Solis are in the Kinsey Institute permanent collect and the Newt Walker collection, among others.</span></span></p>
+
+<p>
+<span class="zb-richtext" style="width:714px;height:961px;margin-left:20px;margin-right:20px;margin-top:20px;margin-bottom:20px;padding:0px"><span class="pv pv-static pv-ready" id="zfdp_47dc6238_3fbf7ama"><span class="pv-outer"><span class="pv-inner" style="width:714px;height:961px"><img class="pv-img pv-burned" width="714" height="960" src="http://www.willowpaule.com/img/s1/v47/p2054072166-6.jpg" alt="" style="width:714px;height:960px" /><span class="pv-zb-text pv-bgcolor1"><span class="pv-zb-text-c pv-font2 pv-color2">L&amp;D Day #5
+Oil and Acrylic on Canvas, 76 x 57 inches Copyright, Forrest Solis, 2016.</span></span></span></span></span>
+
+</span>
+</p>
+
+<p><span style="font-size:22px"><span style="font-family: garamond,hoefler text,times new roman,times,serif">Want to recommend we speak with a creative person you know? <a href="http://www.willowpaule.com/contact" target="_blank">Get in touch</a>. </span></span></p>
+
+<p><span style="font-size:22px"><span style="font-family: garamond,hoefler text,times new roman,times,serif">Past installments of &quot;How you do dat dere?&quot; </span></span></p>
+
+<p><span style="font-size:22px"><span style="font-family: garamond,hoefler text,times new roman,times,serif"><a href="http://www.willowpaule.com/blog/2016/6/oh-so-young-muralista-jeju" target="_blank">Interview: Oh So Young reveals her approach to art (How you do dat dere? #17)</a></span></span></p>
+
+<p><span style="font-size:22px"><span style="font-family: garamond,hoefler text,times new roman,times,serif"><a href="http://www.willowpaule.com/blog/2016/5/conjuring-the-consecrated-with-cherie-buck-hutchison" target="_blank">Conjuring Creativity with intermedia artist Cherie Buck-Hutchison (How you do dat dere? #16)</a></span></span></p>
+
+<p><span style="font-size:22px"><span style="font-family: garamond,hoefler text,times new roman,times,serif"><a href="http://www.willowpaule.com/blog/2016/4/interview-andy-faulk-makes-some-dreamy-portraits--how-you-do-dat-dere-14" target="_blank">Interview: Andy Faulk makes some damn dreamy portraits (How you do dat dere? #15)</a></span></span></p>
+
+<p><span style="font-size:22px"><span style="font-family: garamond,hoefler text,times new roman,times,serif"><a href="http://www.willowpaule.com/blog/2016/3/coaxing-and-coaching-creativity-with-quinn-mcdonald--how-do-you-do-dat-dere-14">Coaxing and Coaching Creativity with Quinn McDonald (How you do dat dere? #14)</a></span></span></p>
+
+<p><span style="font-size:22px"><span style="font-family: garamond,hoefler text,times new roman,times,serif"><a href="http://www.willowpaule.com/blog/2016/2/natasha-mistry-makes-meaning-artist-interview" target="_blank">Natasha Mistry makes meaning with mandalas and kids (How you do dat dere? #13)</a></span></span></p>
+
+<p><span style="font-size:22px"><span style="font-family: garamond,hoefler text,times new roman,times,serif"><a href="http://www.willowpaule.com/blog/2016/1/martin-westlake-photographs-the-amish-of-indonesia-volcanoes-and-architecture" target="_blank">Martin Westlake photographs volcanoes, architecture and the &#039;Amish of Indonesia&#039; (How do you do dat dere #12)</a></span></span></p>
+
+<p class="blog-color1 blog-font1"><span style="font-size:22px"><span style="font-family: garamond,hoefler text,times new roman,times,serif"><a href="http://www.willowpaule.com/blog/2015/12/-how-you-do-dat-dere---interview-with-creative-person-lisa-baughn">Interview with creative person Lisa Baughn (How you do dat dere? #11)</a></span></span></p>
+
+<p class="blog-color1 blog-font1"><span style="font-size:22px"><span style="font-family: garamond,hoefler text,times new roman,times,serif"><a href="http://www.willowpaule.com/blog/2015/11/how-you-do-dat-dere-josh-solar">Josh Solar creates for happiness (how you do dat dere #10)</a></span></span></p>
+
+<p class="blog-color1 blog-font1"><span style="font-size:22px"><span style="font-family: garamond,hoefler text,times new roman,times,serif"><a href="http://www.willowpaule.com/blog/2015/10/midori-harima" target="_blank">Midori Harima, how you do dat dere? </a><a href="http://www.willowpaule.com/blog/2015/5/the-art-of-crafting-comfortable-versitile-clothing-an-interview-with-rose-gerstner" target="_blank">(How you do dat dere </a><a href="http://www.willowpaule.com/blog/2015/9/exploring-identity-family-and-culture-with-video-and-photo-artist-gazelle-samizay" target="_blank">#9)</a></span></span></p>
+
+<p class="blog-color1 blog-font1"><span style="font-size:22px"><span style="font-family: garamond,hoefler text,times new roman,times,serif"><a href="http://www.willowpaule.com/blog/2015/9/exploring-identity-family-and-culture-with-video-and-photo-artist-gazelle-samizay" target="_blank">Exploring identity, family and culture with video and photo artist Gazelle Samizay (</a><a href="http://www.willowpaule.com/blog/2015/5/the-art-of-crafting-comfortable-versitile-clothing-an-interview-with-rose-gerstner" target="_blank">How you do dat dere </a><a href="http://www.willowpaule.com/blog/2015/9/exploring-identity-family-and-culture-with-video-and-photo-artist-gazelle-samizay" target="_blank">#8)</a></span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:22px"><span style="font-family: garamond,hoefler text,times new roman,times,serif"><a href="http://www.willowpaule.com/blog/2015/8/kevin-phillips-cannot-stop-writing" target="_blank">Kevin Phillips Cannot Stop Writing</a> <a href="http://www.willowpaule.com/blog/2015/8/kevin-phillips-cannot-stop-writing" target="_blank">(How you do dat dere #7)</a></span></span></p>
+
+<p style="margin-bottom: 0in"><span style="font-size:22px"><span style="font-family: garamond,hoefler text,times new roman,times,serif"><a href="http://www.willowpaule.com/blog/2015/7/harris-martin-renaissance-man-talks-about-singing-dancing-modeling-the-list-goes-on" target="_blank">Harris Martin, Renaissance Man talks about singing, dancing, modeling...the list goes on.</a> <a href="http://www.willowpaule.com/blog/2015/5/the-art-of-crafting-comfortable-versitile-clothing-an-interview-with-rose-gerstner" target="_blank">(How you do dat dere #6)</a></span></span></p>
+
+<p><span style="font-size:22px"><span style="font-family: garamond,hoefler text,times new roman,times,serif"><a href="http://www.willowpaule.com/blog/2015/6/imaginative-baking-with-stephanie-nixon" target="_blank">Inspired Baking with Stephanie Nixon (How you do dat dere #5)</a><br />
+<a href="http://www.willowpaule.com/blog/2015/5/the-art-of-crafting-comfortable-versitile-clothing-an-interview-with-rose-gerstner" target="_blank">The art of crafting comfortable, versatile clothing, an interview with Rose Gerstner (How you do dat dere #4)</a></span></span></p>
+
+<p><span style="font-size:22px"><span style="font-family: garamond,hoefler text,times new roman,times,serif"><a href="http://www.willowpaule.com/blog/2015/4/dan-mccloys-twisted-horror-films" target="_blank">The Horror--Interview with filmmaker, Dan McCloy (How you do dat dere #3)&nbsp;</a> </span></span></p>
+
+<p><span style="font-size:22px"><span style="font-family: garamond,hoefler text,times new roman,times,serif"><a href="http://www.willowpaule.com/blog/2015/3/landonshanksandhisworld" target="_blank">Landobot-Landon Shanks&#039; World of Art (How you do dat dere #2)</a></span></span></p>
+
+<p><span style="font-size:22px"><span style="font-family: garamond,hoefler text,times new roman,times,serif"><a href="http://www.willowpaule.com/blog/2015/2/jejushamanisminterview-with-filmmaker-joey-rositano" target="_blank">Investigating the spirits of Jeju --Interview with filmmaker Joey Rositano (How you do dat dere #1)</a></span></span></p>
+
+<p><span style="font-size:22px"><span style="font-family: garamond,hoefler text,times new roman,times,serif"><a href="http://www.willowpaule.com/contact" target="_blank">Contact WPP to schedule a documentary photo session</a></span></span></p>
+
+<p><span style="font-size:22px"><span style="font-family: garamond,hoefler text,times new roman,times,serif"><a href="https://www.facebook.com/willowpaulephotography/?fref=ts" target="_blank">Willow Paule Photography on Facebook</a></span></span></p>
+
+<p><span style="font-size:22px"><span style="font-family: garamond,hoefler text,times new roman,times,serif"><a href="https://twitter.com/WillowPaule" target="_blank">Willow Paule on Twitter</a></span></span></p>
+
+<p style="margin-bottom: 0in;line-height: 0.2in">&nbsp;</p>
+Source: New Stuff
