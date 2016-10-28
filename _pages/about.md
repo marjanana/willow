@@ -16,4 +16,4 @@ I am often found in Southeast Asia and the US and I'm available to shoot anywher
 
 Clients often praise my calm and humorous demeanor which makes them feel relaxed. I've noticed that a calm person is a better-understood person. Part of making you comfortable is the research and communication I've done before the shoot, gathering information about exactly what you need from me. Your pleasure is of utmost concern to me!
 
-So, you've gotten this far. Shoot me a message to discuss our collaboration.
+So, you've gotten this far. Shoot me a <a href=" http://tattoomilan.net/contact/" target="_blank">message</a> to discuss our collaboration.
