@@ -10,4 +10,4 @@ layout: page
 permalink: http://tattoomilan.net/relearnig-how-to/
 published: true
 ---
-[Best_Wordpress_Gallery id="2" gal_title="Relearning How To"]
+[Best_Wordpress_Gallery id="2" gal_title="Relearning the Art of Living, Photos of Indonesian Ex-Prisoners"]
