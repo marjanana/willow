@@ -1,6 +1,8 @@
 ---
 ID: 4
-post_title: Relearnig How To
+post_title: >
+  Relearning the Art of Living, Photos of
+  Indonesian Ex-Prisoners
 author: Ana
 post_date: 2016-10-07 05:05:30
 post_excerpt: ""
