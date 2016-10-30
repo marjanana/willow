@@ -1,6 +1,6 @@
 ---
 ID: 141
-post_title: Store
+post_title: Shop
 author: Ana
 post_date: 2016-10-20 00:03:17
 post_excerpt: ""
