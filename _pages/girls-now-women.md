@@ -1,6 +1,6 @@
 ---
 ID: 16
-post_title: Girls Now Women
+post_title: 'Girls&#8230;Now Women'
 author: Ana
 post_date: 2016-10-07 04:50:08
 post_excerpt: ""
