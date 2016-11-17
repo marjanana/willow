@@ -8,6 +8,11 @@ layout: post
 permalink: >
   http://tattoomilan.net/2016/11/17/caitlin-kunkel-wields-humor-as-weapon-as-we-sit-around-in-frump-how-you-do-dat-dere22/
 published: true
+rss_pi_source_url:
+  - >
+    http://www.willowpaule.com/blog/2016/11/caitlin-kunkel-infuses-humor-how-you-do-dat-dere-22
+rss_pi_source_md5:
+  - ea8121790a4262f1c5f3896aaf6b218f
 ---
 <p>
 <span class="zb-richtext" style="width:650px;height:552px;margin-left:auto;margin-right:auto;clear:both;margin-top:10px;margin-bottom:10px;padding:0px"><span class="pv pv-static pv-ready" id="zfdp_30b4f850_6e734aaa"><span class="pv-outer"><a class="pv-inner" href="http://www.secondcity.com/how-to-write-satire-in-times-like-these" target="_blank" style="width:650px;height:552px"><img class="pv-img pv-burned" width="650" height="552" src="http://www.willowpaule.com/img/s12/v177/p923080253-4.jpg" style="width:650px;height:552px" /></a></span></span>
@@ -202,4 +207,4 @@ published: true
 
 <p><span style="font-size:14px"><span style="font-family:Palatino,'Palatino Linotype','Hoefler Text',Times,'Times New Roman'"><a href="https://twitter.com/WillowPaule" target="_blank">Willow Paule on Twitter</a></span></span></p>
 Source: New Stuff 
-{$inline_image}
+<img src="http://tattoomilan.net/wp-content/uploads/2016/11/p923080253-4.jpg" width="650" height="552">
