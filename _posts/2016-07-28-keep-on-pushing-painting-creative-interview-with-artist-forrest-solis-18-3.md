@@ -8,6 +8,11 @@ layout: post
 permalink: >
   http://willowpaule.com/2016/07/28/keep-on-pushing-painting-creative-interview-with-artist-forrest-solis-18-3/
 published: true
+rss_pi_source_url:
+  - >
+    http://willowpaule.com/2016/07/28/keep-on-pushing-painting-creative-interview-with-artist-forrest-solis-18-2/
+rss_pi_source_md5:
+  - 8d8a9e36395478ae22b628aaf11f5de4
 ---
 <p style="margin-bottom: 0in">
 <span class="zb-richtext" style="width:904px;height:905px;margin-left:20px;margin-right:20px;margin-top:20px;margin-bottom:20px;padding:0px"><span class="pv pv-static pv-ready" id="zfdp_47dc6238_3fbf7aaa"><span class="pv-outer"><span class="pv-inner" style="width:904px;height:905px"><img class="pv-img pv-burned" width="904" height="905" src="http://www.willowpaule.com/img/s1/v46/p2137273040-6.jpg" alt="" style="width:904px;height:905px" /><span class="pv-zb-text pv-bgcolor1"><span class="pv-zb-text-c pv-font2 pv-color2">L&amp;D Day #4<br />
@@ -144,5 +149,4 @@ Oil and Acrylic on Canvas, 76 x 57 inches Copyright, Forrest Solis, 2016.</span>
 <p><span style="font-size:22px"><span style="font-family: garamond,hoefler text,times new roman,times,serif"><a href="https://twitter.com/WillowPaule" target="_blank">Willow Paule on Twitter</a></span></span></p>
 <p style="margin-bottom: 0in;line-height: 0.2in">&nbsp;</p>
 <p>Source: New Stuff </p>
-Source: New Stuff 
-{$inline_image}
+Source: New Stuff
