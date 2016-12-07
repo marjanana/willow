@@ -10,6 +10,11 @@ layout: post
 permalink: >
   http://willowpaule.com/2016/07/30/looking-for-help-in-phoenix-exhibit-and-community-conversation-3/
 published: true
+rss_pi_source_url:
+  - >
+    http://willowpaule.com/2016/07/30/looking-for-help-in-phoenix-exhibit-and-community-conversation/
+rss_pi_source_md5:
+  - 0b4d910efe32920ca12c3c5207e2cde9
 ---
 <p><span style="font-size:26px"><span style="font-family: courier new,courier,monospace">Hello Phoenicians! I am searching for help putting together a community exhibit and event around incarceration and prison re-entry. I am looking for someone with good research and communication skills, someone who could contribute by doing some detective work by phone, and possibly in person. There is a time crunch and this event should take place before the beginning of November.</span></span></p>
 <p><span style="font-size:26px"><span style="font-family: courier new,courier,monospace">Working on this project would be a good way to learn more about resources in our Phoenix commun<span class="text_exposed_show">ity, get to know more about needs for those re-entering society from prison, and a way to learn more about the intersection of art, community and re-entry and the justice system at large. <a href="http://www.willowpaule.com/contact" target="_blank">Send me a message</a> if you want more information, or want to express your interest. Please share widely with your circle; I hope to find someone soon! <a class="_58cn" href="https://www.facebook.com/hashtag/reentry?source=feed_text&amp;story_id=10154024567899145"><span class="_58cl">?#&lrm;</span><span class="_58cm">reentry?</span></a> <a class="_58cn" href="https://www.facebook.com/hashtag/prisonreentry?source=feed_text&amp;story_id=10154024567899145"><span class="_58cl">?#&lrm;</span><span class="_58cm">prisonreentry?</span></a> <a class="_58cn" href="https://www.facebook.com/hashtag/intersection?source=feed_text&amp;story_id=10154024567899145"><span class="_58cl">?#&lrm;</span><span class="_58cm">intersection?</span></a> <a class="_58cn" href="https://www.facebook.com/hashtag/socialjustice?source=feed_text&amp;story_id=10154024567899145"><span class="_58cl">?#&lrm;</span><span class="_58cm">socialjustice?</span></a> <a class="_58cn" href="https://www.facebook.com/hashtag/art?source=feed_text&amp;story_id=10154024567899145"><span class="_58cl">?#&lrm;</span><span class="_58cm">art?</span></a></span></span></span></p>
@@ -20,5 +25,4 @@ published: true
 </p>
 </div>
 <p>Source: New Stuff </p>
-Source: New Stuff 
-{$inline_image}
+Source: New Stuff
