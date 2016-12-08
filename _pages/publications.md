@@ -8,28 +8,13 @@ layout: page
 permalink: http://willowpaule.com/publications/
 published: true
 ---
-<a href="http://willowpaule.com/wp-content/uploads/2016/10/Ambarawa_willowpaule.pdf" target="_blank"><img class="alignnone  wp-image-169" src="http://willowpaule.com/wp-content/uploads/2016/10/Ambarawa-e1477622647556.jpg" /></a>
-
+<a href="http://willowpaule.com/wp-content/uploads/2016/10/Ambarawa_willowpaule.pdf" target="_blank"><img src="http://willowpaule.com/wp-content/uploads/2016/12/Ambarawa.jpg" alt="a group of people sitting on the bench" /></a>
 <hr />
-
-
-
 <hr />
-
-<a href="http://tattoomilan.net/wp-content/uploads/2016/10/When-eating-local-means_willowpaule.pdf" target="_blank"><img class="alignnone size-full wp-image-173" src="http://tattoomilan.net/wp-content/uploads/2016/10/When-eating-e1477623519288.jpg" alt="willowpaulepeas copy.jpg" /></a>
-
+<a href="http://willowpaule.com/wp-content/uploads/2016/10/When-eating-local-means_willowpaule.pdf" target="_blank"><img class="alignnone size-full" src="http://willowpaule.com/wp-content/uploads/2016/12/When-eating.jpg" alt="a close-up of pizza" /></a>
 <hr />
-
-
-
 <hr />
-
-<a href="http://tattoomilan.net/wp-content/uploads/2016/10/Jatilan_willowpaule.pdf" target="_blank"><img class="alignnone size-full wp-image-172" src="http://tattoomilan.net/wp-content/uploads/2016/10/Jatilan-e1477623836230.jpg" alt="Jatilan.jpg" /></a>
-
+<a href="http://willowpaule.com/wp-content/uploads/2016/10/Jatilan_willowpaule.pdf" target="_blank"><img src="http://willowpaule.com/wp-content/uploads/2016/12/Jatilan.jpg" alt="men shown in trans"/></a>
 <hr />
-
-
-
 <hr />
-
-<a href="http://tattoomilan.net/wp-content/uploads/2016/10/3-women-run-3…warung_willowpaule.pdf" target="_blank"><img class="alignnone size-full wp-image-171" src="http://tattoomilan.net/wp-content/uploads/2016/10/3-women--e1477624797352.jpg" alt="three women run three very different warung" /></a>
+<a href="http://willowpaule.com/wp-content/uploads/2016/10/3-women-run-3…warung_willowpaule.pdf" target="_blank"><img class="alignnone size-full wp-image-171" src="http://willowpaule.com/wp-content/uploads/2016/12/3-women-.jpg" alt="three women run three very different warung" /></a>
