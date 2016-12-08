@@ -1,14 +1,13 @@
 ---
 ID: 33
-post_title: Home
-author: Ana
+post_title: Home.
+author: Willow
 post_date: 2016-10-07 04:54:50
 post_excerpt: ""
 layout: page
-permalink: http://tattoomilan.net/
+permalink: http://willowpaule.com/
 published: true
 ---
-
 <!--[crellyslider alias="home"]-->
 <img class="" src="http://tattoomilan.net/wp-content/uploads/2016/10/Relearning-how-to-8-1.jpg" alt="relearning-how-to-8"class="aligncenter wp-image-270" />
 <div class="">The <em>Seeing Beyond Prison Bars</em> project about former inmates in Indonesia has made me even more interested in telling truthful, sensitive stories about everyday people.</br>
