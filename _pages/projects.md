@@ -12,7 +12,7 @@ published: true
 
 
 
-<table style="width: 45%; margin: 0 auto; margin-top: 0px;">
+<table style="width: 40%; margin: 0 auto; margin-top: 0px;">
 <tr>
 <th><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank"><input name="cmd" type="hidden" value="_s-xclick" /><input name="hosted_button_id" type="hidden" value="E3ATMCWXJ4WUU" /><input style="display: none; margin: 0 auto;" alt="PayPal - The safer, easier way to pay online!" name="submit" src="" type="image" /><button class="btn-lg">Contribute</button>
 </form></th>
