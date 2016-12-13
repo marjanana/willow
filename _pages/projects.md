@@ -1,6 +1,6 @@
 ---
 ID: 220
-post_title: Projects
+post_title: Socially Engaged Projects
 author: Willow
 post_date: 2016-10-30 21:13:18
 post_excerpt: ""
