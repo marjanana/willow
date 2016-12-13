@@ -8,4 +8,9 @@ layout: page
 permalink: http://willowpaule.com/publications/
 published: true
 ---
-[pdf-embedder url="http://willowpaule.com/wp-content/uploads/2016/10/When-eating-local-means_willowpaule.pdf" title="when-eating-local-means_willowpaule"] [pdf-embedder url="http://willowpaule.com/wp-content/uploads/2016/10/Jatilan_willowpaule.pdf" title="jatilan_willowpaule"] [pdf-embedder url="http://willowpaule.com/wp-content/uploads/2016/10/Ambarawa_willowpaule.pdf" title="ambarawa_willowpaule"] [pdf-embedder url="http://willowpaule.com/wp-content/uploads/2016/10/3-women-run-3…warung_willowpaule.pdf" title="3 women"]
+[Best_Wordpress_Gallery id="25" gal_title="Publications"]
+<h5 style="text-align: center;">Download the articles</h5>
+<p style="text-align: center;"><em><a href="http://willowpaule.com/wp-content/uploads/2016/10/When-eating-local-means_willowpaule.pdf">When Eating Local Means Going Global</a></em>
+<a href="http://willowpaule.com/wp-content/uploads/2016/10/Ambarawa_willowpaule.pdf"><em>On Set In Ambrawa</em></a>
+<a href="http://willowpaule.com/wp-content/uploads/2016/10/Jatilan_willowpaule.pdf"><em>'Jatilan' Trans Dancing</em></a>
+<a href="http://willowpaule.com/wp-content/uploads/2016/10/3-women-run-3…warung_willowpaule.pdf"><em>3 Women Run 3 Very Different 'Warung'</em></a></p>
