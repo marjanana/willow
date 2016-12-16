@@ -10,7 +10,6 @@ permalink: >
 published: true
 ---
 [Best_Wordpress_Gallery id="8" gal_title="Individual Photographs"]
-&nbsp;
 <table style="width: 40%; margin: 0 auto; margin-top: 0px;">
 <tbody>
 <tr>
