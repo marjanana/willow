@@ -11,3 +11,5 @@ published: true
 <strong class="nowrap">[wppb-login]</strong>
 
 <strong class="nowrap">[wppb-register]</strong>
+
+<span>[client-portal] </span>
