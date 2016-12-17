@@ -16,7 +16,7 @@ rss_pi_source_md5:
 rss_pi_canonical_url:
   - source_blog
 ---
-<span class="zb-richtext" style="width: 650px; height: 552px; clear: both; padding: 0px; margin: 10px auto 10px auto;"><span id="zfdp_30b4f850_6e734aaa" class="pv pv-static pv-ready"><span class="pv-outer"><a class="pv-inner" style="width: 650px; height: 552px;" href="http://www.secondcity.com/how-to-write-satire-in-times-like-these" target="_blank"><img class="pv-img pv-burned" style="width: 650px; height: 552px;" src="http://www.willowpaule.com/img/s12/v177/p923080253-4.jpg" width="650" height="552" /></a></span></span></span>
+&nbsp;
 
 &nbsp;
 
