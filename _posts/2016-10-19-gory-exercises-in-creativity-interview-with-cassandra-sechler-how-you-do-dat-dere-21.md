@@ -17,36 +17,29 @@ rss_pi_canonical_url:
   - source_blog
 ---
 <p dir="ltr"><span style="font-size: 22px;"><span style="font-family: palatino,palatino linotype,hoefler text,times,times new roman;">
-<span class="zb-richtext" style="width: 914px; height: 416px; float: left; padding: 0px; margin: 15px;"><img class="alignnone size-full wp-image-522" src="http://willowpaule.com/wp-content/uploads/2016/10/Cassandra-Sechler-Tearful-Surrender-concept-art-6.jpg" alt="Cassandra Sechler" width="1200" height="927" /><span id="zfdp_a4dc2639_15c045aaa" class="pv pv-static pv-ready"><span class="pv-outer"><span class="pv-inner" style="width: 914px; height: 416px;"></span></span></span></span></span></span></p>
+<span class="zb-richtext" style="width: 914px; height: 416px; float: left; padding: 0px; margin: 15px;"><img class="alignnone wp-image-522" src="http://willowpaule.com/wp-content/uploads/2016/10/Cassandra-Sechler-Tearful-Surrender-concept-art-6.jpg" alt="Cassandra Sechler" width="800" height="618" /><span id="zfdp_a4dc2639_15c045aaa" class="pv pv-static pv-ready"><span class="pv-outer"><span class="pv-inner" style="width: 914px; height: 416px;"></span></span></span></span></span></span></p>
+<p dir="ltr"></p>
+<p dir="ltr"></p>
+<p dir="ltr"></p>
+<p dir="ltr"></p>
+<p dir="ltr"></p>
+<p dir="ltr"></p>
+<p dir="ltr"></p>
+<p dir="ltr"></p>
+<p dir="ltr"></p>
+<p dir="ltr"></p>
+<p dir="ltr"></p>
+<p dir="ltr"></p>
+<p dir="ltr"></p>
+<p dir="ltr"></p>
 &nbsp;
-<p dir="ltr"></p>
-<p dir="ltr"></p>
-<p dir="ltr"></p>
-<p dir="ltr"></p>
-<p dir="ltr"></p>
-<p dir="ltr"></p>
-<p dir="ltr"></p>
-<p dir="ltr"></p>
-<p dir="ltr"></p>
-<p dir="ltr"></p>
-<p dir="ltr"></p>
-<p dir="ltr"></p>
-<p dir="ltr"></p>
-<p dir="ltr"></p>
-<p dir="ltr"></p>
 <p dir="ltr"><span style="font-size: 36px;"><span style="font-family: palatino,palatino linotype,hoefler text,times,times new roman;">How do you express your creativity? How did you become interested in your creative practice? </span></span></p>
 <span style="font-size: 22px;"><span style="font-family: palatino,palatino linotype,hoefler text,times,times new roman;">I have various outlets for my creativity. I love being involved with film/camera work, photography, spfx makeup, lighting, wardrobe, painting, design, sculpture, writing, acting, drawing, poetry, just to name a few, with my main interest in writing, directing, and photography. </span></span>
 <p dir="ltr"><span style="font-size: 22px;"><span style="font-family: palatino,palatino linotype,hoefler text,times,times new roman;">I became interested in filmmaking and acting as a child when I first saw <u>King Kong</u>. Fay Wray screaming fascinated me at the age of 3, and I asked my mom, “Can I be her when I grow up?” My mom, said, “Yes, she’s an actress. You can be an actress. You can be whatever you want.” Of course, I found that I prefer being behind the camera, but from an early age I found I was obsessed  with the cinema and wanted to be creatively involved with it. I mean, come on, screaming in front of the camera as a job? Hell yeah. My dad also taught me how to draw and paint when I was very young, which I am grateful for as drawing is my favorite method of brainstorming for projects.</span></span></p>
 <span style="font-size: 22px;"><span style="font-family: palatino,palatino linotype,hoefler text,times,times new roman;">
-<span class="zb-richtext" style="width: 914px; height: 706px; float: left; padding: 0px; margin: 15px;"><span id="zfdp_a4dc2639_15c045aba" class="pv pv-static pv-ready"><span class="pv-outer"><span class="pv-inner" style="width: 914px; height: 706px;"><img class="size-full wp-image-523 aligncenter" src="http://willowpaule.com/wp-content/uploads/2016/10/Cassandra-Sechler-Tearful-Surrender-poster.jpg" alt="Cassandra-Sechler-Tearful-Surrender-poste" width="636" height="960" /></span></span></span></span></span></span>
+<span class="zb-richtext" style="width: 914px; height: 706px; float: left; padding: 0px; margin: 15px;"><span id="zfdp_a4dc2639_15c045aba" class="pv pv-static pv-ready"><span class="pv-outer"><span class="pv-inner" style="width: 914px; height: 706px;"><img class="aligncenter wp-image-523" src="http://willowpaule.com/wp-content/uploads/2016/10/Cassandra-Sechler-Tearful-Surrender-poster.jpg" alt="Cassandra-Sechler-Tearful-Surrender-poste" width="398" height="600" /></span></span></span></span></span></span>
 
 &nbsp;
-<p dir="ltr"></p>
-<p dir="ltr"></p>
-<p dir="ltr"></p>
-<p dir="ltr"></p>
-<p dir="ltr"></p>
-<p dir="ltr"></p>
 <p dir="ltr"></p>
 <p dir="ltr"></p>
 <p dir="ltr"></p>
