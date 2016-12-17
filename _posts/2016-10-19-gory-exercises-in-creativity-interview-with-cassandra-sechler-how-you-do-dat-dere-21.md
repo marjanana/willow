@@ -68,8 +68,30 @@ rss_pi_canonical_url:
 
 <span style="font-size: 22px;"><span style="font-family: palatino,palatino linotype,hoefler text,times,times new roman;">My biggest influences are my dreams/nightmares and feelings about life, social issues, and various existential crises I want to confront. I’m also influenced by my favorite artists, such as David Cronenberg, John Carpenter, Cindy Sherman, Charlie White, Francis Bacon, Kenneth Anger, and many others. My influences are constantly evolving, often stemming from my subconscious.</span></span>
 
-<span style="font-size: 22px;"><span style="font-family: palatino,palatino linotype,hoefler text,times,times new roman;"><img class="alignleft wp-image-510" src="http://willowpaule.com/wp-content/uploads/2016/10/Cassandra-Sechler-Elliot-Concept-Art.jpg" alt="Cassandra Sechler Elliot Concept Art" width="600" height="464" />
-<span class="zb-richtext" style="width: 914px; height: 706px; padding: 0px; margin: 15px;"><span id="zfdp_a4dc2639_15c045aka" class="pv pv-static pv-ready"><span class="pv-outer"><span class="pv-inner" style="width: 914px; height: 706px;"><span class="pv-zb-text pv-bgcolor1"><span class="pv-zb-text-c pv-font2 pv-color2">Elliot concept, Copyright, Cassandra Sechler, 2016.</span></span></span></span></span></span></span></span>
+<span style="font-size: 22px;"><span style="font-family: palatino,palatino linotype,hoefler text,times,times new roman;"><img class="wp-image-510 aligncenter" src="http://willowpaule.com/wp-content/uploads/2016/10/Cassandra-Sechler-Elliot-Concept-Art.jpg" alt="Cassandra Sechler Elliot Concept Art" width="600" height="464" />
+</span></span>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+<span style="font-size: 22px;"><span style="font-family: palatino,palatino linotype,hoefler text,times,times new roman;"><span class="zb-richtext" style="width: 914px; height: 706px; padding: 0px; margin: 15px;"><span id="zfdp_a4dc2639_15c045aka" class="pv pv-static pv-ready"><span class="pv-outer"><span class="pv-inner" style="width: 914px; height: 706px;"><span class="pv-zb-text pv-bgcolor1"><span class="pv-zb-text-c pv-font2 pv-color2">Elliot concept, Copyright, Cassandra Sechler, 2016.</span></span></span></span></span></span></span></span>
 
 &nbsp;
 <p dir="ltr"><span style="font-size: 36px;"><span style="font-family: palatino,palatino linotype,hoefler text,times,times new roman;">How do you record or remember and respond to your dreams? Do you keep a dream journal?</span></span></p>
@@ -107,7 +129,33 @@ rss_pi_canonical_url:
 <span style="font-size: 22px;"><span style="font-family: palatino,palatino linotype,hoefler text,times,times new roman;">I think an artist should pay one’s dues but not starve inherently. I know I definitely literally often “starve” whether it be sacrificing meals or whatnot to make things happen when filming a project out of pocket. That’s life. I personally like sweating and bleeding to be able to make my art. It makes life worth living and a concept worth sharing. But…inherently?  Maybe not. Everyone should be able to see the fruits of their labor and starve a little less in life, especially if their work is good! </span></span>
 <p dir="ltr"><span style="font-size: 36px;"><span style="font-family: palatino,palatino linotype,hoefler text,times,times new roman;">How can people view and stay up-to-date with your creative work? </span></span></p>
 <span style="font-size: 22px;"><span style="font-family: palatino,palatino linotype,hoefler text,times,times new roman;">I always post news about screenings, art shows, and what I am working on via my <a href="http://cassandrasechler.com" target="_blank">personal site</a> as well as my <a href="http://dreamsfordeadcats.com" target="_blank">production site</a>  where people can sign up for our newsletter and find links to related social media accounts. </span></span>
-<span style="font-size: 22px;"><span style="font-family: palatino,palatino linotype,hoefler text,times,times new roman;"><img class="alignnone size-full wp-image-516" src="http://willowpaule.com/wp-content/uploads/2016/10/Cassandra-Sechler-photography-3.jpg" alt="Cassandra Sechler photography 3" width="795" height="550" />
+<span style="font-size: 22px;"><span style="font-family: palatino,palatino linotype,hoefler text,times,times new roman;"><img class="size-full wp-image-516 alignleft" src="http://willowpaule.com/wp-content/uploads/2016/10/Cassandra-Sechler-photography-3.jpg" alt="Cassandra Sechler photography 3" width="795" height="550" /></span></span>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+<span style="font-size: 22px;"><span style="font-family: palatino,palatino linotype,hoefler text,times,times new roman;">
 <span class="zb-richtext" style="width: 795px; height: 550px; padding: 0px; margin: 15px;"><span id="zfdp_a4dc2639_15c045aqa" class="pv pv-static pv-ready"><span class="pv-outer"><span class="pv-inner" style="width: 795px; height: 550px;"><span class="pv-zb-text pv-bgcolor1"><span class="pv-zb-text-c pv-font2 pv-color2">Photograph Copyright, Casandra Sechler, 2016.</span></span></span></span></span></span></span></span>
 
 &nbsp;
@@ -116,12 +164,81 @@ rss_pi_canonical_url:
 
 <span style="font-size: 22px;"><span style="font-family: palatino,palatino linotype,hoefler text,times,times new roman;">In addition to <u>Tearful Surrender</u>,  I have an erotic web series called <u>Windows</u> that I am writing and producing, as well as another two feature films with Dreams For Dead Cats Productions (a dark romantic comedy, and a dystopian science fiction fantasy film).</span></span>
 <span style="font-size: 22px;"><span style="font-family: palatino,palatino linotype,hoefler text,times,times new roman;">
-<span class="zb-richtext" style="width: 914px; height: 914px; padding: 0px; margin: 15px;"><span id="zfdp_a4dc2639_15c045ara" class="pv pv-static pv-ready"><span class="pv-outer"><span class="pv-inner" style="width: 914px; height: 914px;"></span></span></span></span></span></span><img class="alignnone wp-image-512" src="http://willowpaule.com/wp-content/uploads/2016/10/Cassandra-Sechler-Halloween-Hagatha-Cobweb.jpg" alt="Cassandra Sechler Halloween Hagatha Cobweb" width="600" height="600" />
+<span class="zb-richtext" style="width: 914px; height: 914px; padding: 0px; margin: 15px;"><span id="zfdp_a4dc2639_15c045ara" class="pv pv-static pv-ready"><span class="pv-outer"><span class="pv-inner" style="width: 914px; height: 914px;"></span></span></span></span></span></span><img class="wp-image-512 alignleft" src="http://willowpaule.com/wp-content/uploads/2016/10/Cassandra-Sechler-Halloween-Hagatha-Cobweb.jpg" alt="Cassandra Sechler Halloween Hagatha Cobweb" width="600" height="600" />
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 <span style="font-size: 36px;"><span style="font-family: palatino,palatino linotype,hoefler text,times,times new roman;">Finally, and maybe most importantly, what are your Halloween plans?</span></span>
 
 <span style="font-size: 22px;"><span style="font-family: palatino,palatino linotype,hoefler text,times,times new roman;">I celebrate Halloween ALL year! However my specific Halloween plans are to carve a Jack-O-Lantern, dress up in costume (this year I shall be a mix of Sylvester Stallone’s and Brigitte Nielson’s characters in Cobra), eat junk food, make goodies to share with my neighbors (it is my Christmas after all), enjoy a few cocktails, tell ghost stories/read scary stories, and watch horror movies by the light of my Jack-o-Lantern until I pass out. It might sound simple, but there’s nothing I love more than curling up with my boyfriend and watching a movie, especially on Halloween…and ending the night with John Carpenter’s HALLOWEEN of course!</span></span>
 
-<span class="zb-richtext" style="width: 636px; height: 960px; float: left; padding: 0px; margin: 15px;"><img class="alignnone size-full wp-image-517" src="http://willowpaule.com/wp-content/uploads/2016/10/Cassandra-Sechler-Portrait-1.jpg" alt="Cassandra Sechler Portrait 1" width="636" height="960" /><span id="zfdp_a4dc2639_15c045asa" class="pv pv-static pv-ready"><span class="pv-outer"><span class="pv-inner" style="width: 636px; height: 960px;"></span></span></span></span>
+<span class="zb-richtext" style="width: 636px; height: 960px; float: left; padding: 0px; margin: 15px;"><img class="size-full wp-image-517 alignleft" src="http://willowpaule.com/wp-content/uploads/2016/10/Cassandra-Sechler-Portrait-1.jpg" alt="Cassandra Sechler Portrait 1" width="636" height="960" /><span id="zfdp_a4dc2639_15c045asa" class="pv pv-static pv-ready"><span class="pv-outer"><span class="pv-inner" style="width: 636px; height: 960px;"></span></span></span></span>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
