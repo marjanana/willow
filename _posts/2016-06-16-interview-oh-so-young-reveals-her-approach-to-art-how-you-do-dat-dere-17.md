@@ -31,33 +31,28 @@ enclosure:
 <p style="margin-bottom: 0in;">Mural created during live painting in Coex Mall.</p>
 &nbsp;
 <p style="margin-bottom: 0in;"><img class="alignnone size-full wp-image-647" src="http://willowpaule.com/wp-content/uploads/2016/06/12.-berlin-live-painting-1.jpg" alt="" width="700" height="206" /></p>
+<p style="margin-bottom: 0in;">Live painting in Berlin.</p>
 <p style="margin-bottom: 0in;"></p>
 <p style="margin-bottom: 0in;"><span style="font-size: 18px;"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif;"><b>How did you become a muralist? Where do find ideas for your murals?</b></span></span></p>
 <p style="margin-bottom: 0in;"><span style="font-size: 18px;"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif;">Six years ago, I showed my work in COEX Mall in Seoul. It was my first exhibit of my artwork ever. That meant I didn’t have any idea about the best way to show my work. I just hung my artwork on the wall and I sat in front of it. I felt like I was a clerk in a store. It was boring and awkward. So I decided to take my artwork down and, instead, I started painting on the huge wall. I know, it sounds so strange. But suddenly, many people, including curators, took photos of me working and people began to buy my artwork. After that day, one of the officers of the Choong Mu Art Center got in touch to inquire about my live painting. And he asked me if I could do a wall painting. So, how did I answer? Yes, of course!!! But frankly speaking, I had never painted a mural in my life before that day. ;) </span></span></p>
 <p style="margin-bottom: 0in;"><span style="font-size: 18px;"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif;">
-<span class="zb-richtext" style="width: 904px; height: 266px; float: left; padding: 0px; margin: 20px;"><span id="zfdp_8e3283c9_1ca2deaca" class="pv pv-static pv-ready"><span class="pv-outer"><span class="pv-inner" style="width: 904px; height: 266px;"><span class="pv-zb-text pv-bgcolor1"><span class="pv-zb-text-c pv-font2 pv-color2">Live painting in Berlin.</span></span></span></span></span></span></span></span><img class="alignnone size-full wp-image-638" src="http://willowpaule.com/wp-content/uploads/2016/06/14.-wallpainting-in-Jeju.jpg" alt="wallpainting in Jeju" width="600" height="448" /></p>
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
+</span></span>
+<img class="alignnone size-full wp-image-638" src="http://willowpaule.com/wp-content/uploads/2016/06/14.-wallpainting-in-Jeju.jpg" alt="wallpainting in Jeju" width="600" height="448" /></p>
 &nbsp;
 <p style="margin-bottom: 0in;"><span style="font-size: 18px;"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif;">Even after that first uncomfortable show, I’ve continued painting murals. My murals are in South Korea, Italy, Bangladesh, Germany, and Indonesia, among other countries.</span></span></p>
 <p style="margin-bottom: 0in;"><span style="font-size: 18px;"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif;">
 <span class="zb-richtext" style="width: 904px; height: 674px; float: left; padding: 0px; margin: 20px;">sailing with hanging the moon<img class="size-full wp-image-629 alignleft" src="http://willowpaule.com/wp-content/uploads/2016/06/3.-sailing-with-hanging-the-moon.jpg" alt="sailing with hanging the moon" width="450" height="600" /><span id="zfdp_8e3283c9_1ca2deada" class="pv pv-static pv-ready"><span class="pv-outer"><span class="pv-inner" style="width: 904px; height: 674px;"></span></span></span></span></span></span></p>
 &nbsp;
 <p style="margin-bottom: 0in;"><span style="font-size: 18px;"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif;">Ideas for my murals? Actually I never draw a rough sketch for any of my murals. I just go to the wall. I feel the atmosphere of the place and I read poems. I choose some poems which are related to the history of the place or by my favorite Korean poet, Choi Seung Ja. I consider it a ceremony of sorts. I paint the wall, taking advantage of my subconscious feelings about the place. </span></span></p>
-<p style="margin-bottom: 0in;"><span style="font-size: 18px;"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif;">
+<p style="margin-bottom: 0in;"></p>
+&nbsp;
 
-</span></span></p>
 &nbsp;
 <p style="margin-bottom: 0in;"><span style="font-size: 18px;"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif;"><b>Are you inspired by the work of other street artists or muralists?</b></span></span></p>
 <p style="margin-bottom: 0in;"><span style="font-size: 18px;"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif;">Yes. But I am also inspired by poetry, science, and nature. </span></span></p>
 <p style="margin-bottom: 0in;"><span style="font-size: 18px;"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif;"><b>You live on Jeju Island in South Korea. When I lived there, I was impressed by the natural beauty of the beaches and terrain on the island. I felt like that conflicted with the very gray architecture of public buildings and apartment complexes and the predominantly white, black and gray cars. Your work is so colorful. What informs it? And how does your audience react to it? (So Young answers indirectly with the story below:)</b></span></span></p>
 <p style="margin-bottom: 0in;"><span style="font-size: 18px;"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif;"><b><img class="alignnone size-full wp-image-644" src="http://willowpaule.com/wp-content/uploads/2016/06/21.-colorful-car.jpg" alt="colorful car" width="600" height="400" />
 <span class="zb-richtext" style="width: 904px; height: 603px; padding: 0px; margin: 20px;"><span id="zfdp_8e3283c9_1ca2deafa" class="pv pv-static pv-ready"><span class="pv-outer"><span class="pv-inner" style="width: 904px; height: 603px;"></span></span></span></span></b></span></span></p>
-
 Hahahahaha.
 <p style="margin-bottom: 0in;"><span style="font-size: 18px;"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif;">My car was so colorful, with an array of colors. It was so extreme. :) But my goal was to make people who saw my car smile. I hoped people would feel refreshed when they saw it.</span></span></p>
 <p style="margin-bottom: 0in;"><span style="font-size: 18px;"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif;">One day, I was standing by my car, waiting for a friend. </span></span></p>
@@ -83,10 +78,8 @@ Hahahahaha.
 <p style="margin-bottom: 0in;"><span style="font-size: 18px;"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif;"><b>How have you made it financially possible to focus on your artwork?</b></span></span></p>
 <p style="margin-bottom: 0in;"><span style="font-size: 18px;"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif;">I just try to survive one day at a time. One time I was so hungry. I didn't have anything to eat. I only drank water for 3 days. So I drew a bird on the cloth and filled it with cotton wool. But I couldn’t eat the bird. Because it was too cute to eat.</span></span></p>
 <p style="margin-bottom: 0in;"><span style="font-size: 18px;"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif;">
-<span class="zb-richtext" style="width: 904px; height: 508px; padding: 0px; margin: 20px;"><span id="zfdp_8e3283c9_1ca2deaia" class="pv pv-static pv-video pv-ready"><span class="pv-outer"><span class="pv-inner" style="width: 904px; height: 508px;"><video class="pv-img pv-burned" style="width: 904px; height: 508px;" src="http://www.willowpaule.com/img/s4/v64/o841192347/c2000/p1912176940-220.mp4" poster="/img/s4/v64/p1912176940-250.jpg" width="904" height="508">&nbsp;
 
-</video></span></span></span></span></span></span>
-
+</span></span></p>
 <p style="margin-bottom: 0in;"><span style="font-size: 18px;"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif;"><span class="zb-richtext" style="width: 904px; height: 508px; padding: 0px; margin: 20px;"><span id="zfdp_8e3283c9_1ca2deaia" class="pv pv-static pv-video pv-ready"><span class="pv-outer"><span class="pv-inner" style="width: 904px; height: 508px;"><span class="pv-zb-text pv-bgcolor1"><span class="pv-zb-text-c pv-font2 pv-color2">A day in the life of the artist
 </span></span></span></span></span></span></span></span></p>
 &nbsp;
@@ -119,7 +112,6 @@ Hahahahaha.
 <p style="margin-bottom: 0in;"><span style="font-size: 18px;"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif;"><b>Bio: </b></span></span></p>
 <p style="margin-bottom: 0in;"><span style="font-size: 18px;"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif;"><img class="alignnone size-full wp-image-645" src="http://willowpaule.com/wp-content/uploads/2016/06/12483345_990272794342707_255415626_n_960.jpg" alt="" width="600" height="399" />
 <span class="zb-richtext" style="width: 904px; height: 602px; float: left; padding: 0px; margin: 20px;"><span id="zfdp_8e3283c9_1ca2deaoa" class="pv pv-static pv-ready"><span class="pv-outer"><span class="pv-inner" style="width: 904px; height: 602px;"><span class="pv-zb-text pv-bgcolor1"><span class="pv-zb-text-c pv-font2 pv-color2">Photo Copyright Ran Young Lee, 2016</span></span></span></span></span></span></span></span></p>
-<p style="margin-bottom: 0in;"></p>
 &nbsp;
 <p style="margin-bottom: 0in;"><span style="font-size: 18px;"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif;">Oh So Young (b. Jeju, South Korea, 1979) is based on Jeju Island, South Korea. She studied bio science and English literature in college, and especially her love of science  has informed her art practice. She performs, paints and acts. She has been selected for competitive artist residencies in Gasiri, Jeju, Gyung gi, and Seoul, Korea, as well international residencies in Bangladesh, Italy and Indonesia. Her murals can be seen in Seoul, Incheon, Jeju, and Gumi, among other towns in Korea. See more of So Young's creative work on her <a href="http://windstone.co/" target="_blank">website</a> or on <a href="https://www.facebook.com/wind.stone.5" target="_blank">Facebook</a>.</span></span></p>
 <p style="margin-bottom: 0in;"><span style="font-size: 18px;"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif;"><img class="alignnone size-full wp-image-632" src="http://willowpaule.com/wp-content/uploads/2016/06/7.-untitle.jpg" alt="untitled" width="600" height="434" />
