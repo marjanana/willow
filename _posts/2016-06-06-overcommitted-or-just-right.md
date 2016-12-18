@@ -16,22 +16,14 @@ rss_pi_source_md5:
 rss_pi_canonical_url:
   - my_blog
 ---
-<span class="zb-richtext" style="width: 904px; height: 604px; float: left; padding: 0px; margin: 20px;"><span id="zfdp_47dc6238_3fbfdaaa" class="pv pv-static pv-ready"><span class="pv-outer"><span class="pv-inner" style="width: 904px; height: 604px;"><span class="pv-zb-text pv-bgcolor1"><span class="pv-zb-text-c pv-font2 pv-color2">Photo Copyright Willow Paule, 2016.</span></span></span></span></span></span>
+&nbsp;
+<p style="text-align: left;"><img class="alignnone wp-image-654" src="http://willowpaule.com/wp-content/uploads/2016/06/edDSC_6560.jpg" width="600" height="401" /></p>
+<span class="zb-richtext"><span id="zfdp_47dc6238_3fbfdaaa" class="pv pv-static pv-ready"><span class="pv-outer"><span class="pv-inner"><span class="pv-zb-text pv-bgcolor1"><span class="pv-zb-text-c pv-font2 pv-color2">Photo Copyright Willow Paule, 2016</span></span></span></span></span></span>
 
 &nbsp;
-
-&nbsp;
-
-<span style="font-family: georgia,palatino,palatino linotype,times,times new roman,serif;"><span style="font-size: 18px;">I started this blog entry and then Firefox crashed, as it often does. How frustrating. I felt unmotivated to begin writing again. I decided to take a nap and come back to it. Good call.</span></span>
-
+<p style="text-align: left;"><span style="font-family: georgia,palatino,palatino linotype,times,times new roman,serif;"><span style="font-size: 18px;">I started this blog entry and then Firefox crashed, as it often does. How frustrating. I felt unmotivated to begin writing again. I decided to take a nap and come back to it. Good call.</span></span></p>
 <span style="font-family: georgia,palatino,palatino linotype,times,times new roman,serif;"><span style="font-size: 18px;">Suffice it to say, I have a lot going on in my life right now. I am trying to finish about 10 projects, many of which require research and much energy. I'm trying to be selective and limit commitments that don't directly benefit me or absolutely need to be made. Although I don't have a personal shopper or chauffeur, I DO take the bus to work most days, which allows me time to read and think on my way into the office, which helps me get centered for the day.</span></span>
-<p style="text-align: left;"></p>
-<p style="text-align: left;"></p>
-<p style="text-align: left;"></p>
-<p style="text-align: left;"></p>
-<p style="text-align: left;"></p>
-<p style="text-align: left;"></p>
-<p style="text-align: left;"></p>
+
 &nbsp;
 
 <img class="size-full wp-image-652 alignleft" src="http://willowpaule.com/wp-content/uploads/2016/06/todoz.jpg" alt="todoz" width="318" height="500" />
