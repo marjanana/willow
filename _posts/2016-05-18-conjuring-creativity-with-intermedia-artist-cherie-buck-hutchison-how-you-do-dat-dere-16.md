@@ -2,11 +2,11 @@
 ID: 678
 post_title: 'Conjuring Creativity with intermedia artist Cherie Buck-Hutchison&#8211;How you do dat dere? #16'
 author: Willow
-post_date: 2015-05-18 21:27:02
+post_date: 2016-05-18 21:27:02
 post_excerpt: ""
 layout: post
 permalink: >
-  http://willowpaule.com/2015/05/18/conjuring-creativity-with-intermedia-artist-cherie-buck-hutchison-how-you-do-dat-dere-16/
+  http://willowpaule.com/2016/05/18/conjuring-creativity-with-intermedia-artist-cherie-buck-hutchison-how-you-do-dat-dere-16/
 published: true
 ---
 <p><span style="font-size:20px;"><span style="font-family: century gothic,applegothic,apple gothic,sans-serif;">
