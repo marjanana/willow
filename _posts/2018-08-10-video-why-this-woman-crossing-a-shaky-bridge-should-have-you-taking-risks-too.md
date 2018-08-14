@@ -9,7 +9,8 @@ permalink: >
 published: true
 post_date: 2018-08-10 15:40:21
 ---
-<h1><img class="size-full wp-image-3931 aligncenter" src="http://willowpaule.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-13-at-11.34.47-PM.png" alt="crossing the bridge" width="477" height="266" /></h1>
+<h1></h1>
+<img class="aligncenter wp-image-3933 size-full" src="http://willowpaule.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-14-at-12.17.10-PM.png" alt="taking risks will change your life for the better" width="659" height="376" />
 <h1>[Video] Why this woman crossing a shaky bridge should have you taking risks, too</h1>
 <p class="p1"><span class="s1">Would you try walking across this bridge over churning sea waves? What do you think could go wrong? More importantly, can taking incremental risks, whatever those look like for you, be useful to your personal growth? I think taking risks will change your life for the better.</span></p>
 [embed]https://www.instagram.com/p/BYDlPwhlvSr/?taken-by=anna.setyowati[/embed]
